@@ -1,0 +1,95 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+11,11,60,Female,11_left.jpg,11_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+23,23,47,Male,23_left.jpg,23_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+28,28,63,Female,28_left.jpg,28_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+32,32,64,Female,32_left.jpg,32_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+45,45,54,Male,45_left.jpg,45_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+62,62,50,Male,62_left.jpg,62_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+95,95,46,Male,95_left.jpg,95_right.jpg,hypertensive retinopathy,suspected glaucoma,0,0,0,0,0,1,0,1
+116,116,61,Male,116_left.jpg,116_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+120,120,43,Male,120_left.jpg,120_right.jpg,proliferative diabetic retinopathy，hypertensive retinopathy,proliferative diabetic retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+127,127,52,Male,127_left.jpg,127_right.jpg,proliferative diabetic retinopathy，hypertensive retinopathy,proliferative diabetic retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+139,139,41,Male,139_left.jpg,139_right.jpg,severe nonproliferative retinopathy，hypertensive retinopathy,severe nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+176,176,65,Female,176_left.jpg,176_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+179,179,65,Female,179_left.jpg,179_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+271,272,59,Male,272_left.jpg,272_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+295,296,57,Female,296_left.jpg,296_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+299,300,55,Male,300_left.jpg,300_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+314,315,57,Female,315_left.jpg,315_right.jpg,wet age-related macular degeneration，hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,1,1,0,0
+322,323,65,Male,323_left.jpg,323_right.jpg,hypertensive retinopathy，optic nerve atrophy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+344,345,64,Female,345_left.jpg,345_right.jpg,hypertensive retinopathy,hypertensive retinopathy，cataract,0,0,0,1,0,1,0,0
+354,355,55,Male,355_left.jpg,355_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+364,365,60,Female,365_left.jpg,365_right.jpg,hypertensive retinopathy，suspected glaucoma,hypertensive retinopathy，suspected glaucoma,0,0,0,0,0,1,0,1
+373,374,44,Male,374_left.jpg,374_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+412,413,62,Male,413_left.jpg,413_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+498,499,62,Female,499_left.jpg,499_right.jpg,hypertensive retinopathy,hypertensive retinopathy，mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+542,543,48,Male,543_left.jpg,543_right.jpg,hypertensive retinopathy，mild nonproliferative retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+560,561,59,Female,561_left.jpg,561_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+570,571,52,Female,571_left.jpg,571_right.jpg,hypertensive retinopathy,hypertensive retinopathy，mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+604,605,52,Male,605_left.jpg,605_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+673,675,56,Male,675_left.jpg,675_right.jpg,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion,0,0,0,0,0,1,0,1
+684,686,37,Male,686_left.jpg,686_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+718,720,58,Male,720_left.jpg,720_right.jpg,old chorioretinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+721,723,53,Female,723_left.jpg,723_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+752,754,64,Male,754_left.jpg,754_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+757,759,58,Female,759_left.jpg,759_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+775,777,68,Female,777_left.jpg,777_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+781,783,68,Female,783_left.jpg,783_right.jpg,hypertensive retinopathy，mild nonproliferative retinopathy,hypertensive retinopathy，moderate non proliferative retinopathy,0,1,0,0,0,1,0,0
+788,790,61,Male,790_left.jpg,790_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+814,816,64,Male,816_left.jpg,816_right.jpg,old branch retinal vein occlusion,hypertensive retinopathy,0,0,0,0,0,1,0,0
+816,818,52,Male,818_left.jpg,818_right.jpg,hypertensive retinopathy，moderate non proliferative retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+824,826,60,Female,826_left.jpg,826_right.jpg,hypertensive retinopathy，maculopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+847,849,60,Female,849_left.jpg,849_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+954,957,45,Male,957_left.jpg,957_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+964,968,68,Female,968_left.jpg,968_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+979,983,63,Male,983_left.jpg,983_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+992,998,36,Male,998_left.jpg,998_right.jpg,dry age-related macular degeneration，hypertensive retinopathy,dry age-related macular degeneration，hypertensive retinopathy,0,0,0,0,1,1,0,0
+1011,1024,60,Male,1024_left.jpg,1024_right.jpg,hypertensive retinopathy,hypertensive retinopathy，mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+1013,1031,53,Male,1031_left.jpg,1031_right.jpg,drusen,hypertensive retinopathy,0,0,0,0,0,1,0,1
+1024,1045,51,Male,1045_left.jpg,1045_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1025,1046,55,Male,1046_left.jpg,1046_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1026,1048,60,Female,1048_left.jpg,1048_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1031,1056,62,Male,1056_left.jpg,1056_right.jpg,hypertensive retinopathy,hypertensive retinopathy，macular epiretinal membrane,0,0,0,0,0,1,0,1
+1048,1081,47,Female,1081_left.jpg,1081_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1186,1263,62,Male,1263_left.jpg,1263_right.jpg,glaucoma，hypertensive retinopathy,old central retinal vein occlusion,0,0,1,0,0,1,0,0
+1210,1290,54,Male,1290_left.jpg,1290_right.jpg,glaucoma，hypertensive retinopathy,glaucoma，hypertensive retinopathy,0,0,1,0,0,1,0,0
+1219,1303,49,Male,1303_left.jpg,1303_right.jpg,hypertensive retinopathy,glaucoma，central retinal vein occlusion,0,0,1,0,0,1,0,0
+1224,1309,49,Male,1309_left.jpg,1309_right.jpg,glaucoma，hypertensive retinopathy,glaucoma，hypertensive retinopathy,0,0,1,0,0,1,0,0
+1246,1373,68,Male,1373_left.jpg,1373_right.jpg,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion，vitreous opacity,0,0,0,0,0,1,0,1
+1248,1377,64,Female,1377_left.jpg,1377_right.jpg,glaucoma，hypertensive retinopathy,hypertensive retinopathy,0,0,1,0,0,1,0,0
+1474,1833,65,Female,1833_left.jpg,1833_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1488,1853,48,Male,1853_left.jpg,1853_right.jpg,dry age-related macular degeneration,hypertensive retinopathy,0,0,0,0,1,1,0,0
+1496,1867,64,Male,1867_left.jpg,1867_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1535,1989,62,Male,1989_left.jpg,1989_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1539,2004,47,Male,2004_left.jpg,2004_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1547,2048,63,Male,2048_left.jpg,2048_right.jpg,glaucoma，old central retinal vein occlusion,hypertensive retinopathy,0,0,0,0,1,1,0,1
+1548,2052,62,Male,2052_left.jpg,2052_right.jpg,hypertensive retinopathy，cataract,hypertensive retinopathy，cataract,0,0,0,1,0,1,0,0
+1551,2064,56,Female,2064_left.jpg,2064_right.jpg,hypertensive retinopathy，diabetic retinopathy,hypertensive retinopathy，diabetic retinopathy,0,1,0,0,0,1,0,0
+1553,2066,52,Male,2066_left.jpg,2066_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+1554,2070,50,Male,2070_left.jpg,2070_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,0
+2830,3936,50,Male,3936_left.jpg,3936_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2833,3939,59,Male,3939_left.jpg,3939_right.jpg,severe nonproliferative retinopathy，hypertensive retinopathy,severe nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2844,3951,54,Male,3951_left.jpg,3951_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+2856,3966,55,Female,3966_left.jpg,3966_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+2868,3981,69,Female,3981_left.jpg,3981_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2869,3982,52,Male,3982_left.jpg,3982_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2873,3986,69,Female,3986_left.jpg,3986_right.jpg,severe nonproliferative retinopathy，hypertensive retinopathy,proliferative diabetic retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2893,4012,56,Female,4012_left.jpg,4012_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,mild nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2915,4037,58,Male,4037_left.jpg,4037_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2932,4055,61,Male,4055_left.jpg,4055_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+2946,4072,60,Female,4072_left.jpg,4072_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2950,4077,45,Female,4077_left.jpg,4077_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+2961,4088,42,Female,4088_left.jpg,4088_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2963,4090,68,Female,4090_left.jpg,4090_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2990,4120,61,Male,4120_left.jpg,4120_right.jpg,severe nonproliferative retinopathy，hypertensive retinopathy,severe nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2992,4122,34,Female,4122_left.jpg,4122_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+2999,4129,57,Female,4129_left.jpg,4129_right.jpg,hypertensive retinopathy,mild nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+3010,4142,54,Male,4142_left.jpg,4142_right.jpg,severe nonproliferative retinopathy，hypertensive retinopathy,severe nonproliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+3059,4199,67,Female,4199_left.jpg,4199_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+3062,4202,61,Female,4202_left.jpg,4202_right.jpg,hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+3067,4207,66,Female,4207_left.jpg,4207_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+3074,4214,45,Male,4214_left.jpg,4214_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+3184,4327,49,Male,4327_left.jpg,4327_right.jpg,mild nonproliferative retinopathy，hypertensive retinopathy,hypertensive retinopathy,0,1,0,0,0,1,0,0
+3291,4445,35,Male,4445_left.jpg,4445_right.jpg,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,0,1,0,0,0,1,0,0
+3320,4478,51,Male,4478_left.jpg,4478_right.jpg,hypertensive retinopathy,mild nonproliferative retinopathy,0,1,0,0,0,1,0,0
+3499,4784,58,Male,4784_left.jpg,4784_right.jpg,hypertensive retinopathy，age-related macular degeneration,hypertensive retinopathy，age-related macular degeneration,0,0,0,0,1,1,0,0

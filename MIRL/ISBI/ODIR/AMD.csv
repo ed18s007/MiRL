@@ -1,0 +1,172 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+43,43,35,Male,43_left.jpg,43_right.jpg,dry age-related macular degeneration，glaucoma,wet age-related macular degeneration,0,0,1,0,1,0,0,0
+48,48,69,Female,48_left.jpg,48_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+53,53,65,Female,53_left.jpg,53_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+55,55,62,Male,55_left.jpg,55_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+71,71,56,Female,71_left.jpg,71_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+102,102,73,Female,102_left.jpg,102_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+126,126,66,Male,126_left.jpg,126_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+136,136,75,Female,136_left.jpg,136_right.jpg,refractive media opacity,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+152,152,55,Male,152_left.jpg,152_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+153,153,79,Male,153_left.jpg,153_right.jpg,dry age-related macular degeneration,glaucoma,0,0,1,0,1,0,0,0
+158,158,61,Male,158_left.jpg,158_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+160,160,40,Female,160_left.jpg,160_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+162,162,76,Female,162_left.jpg,162_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+164,164,62,Female,164_left.jpg,164_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+168,168,66,Male,168_left.jpg,168_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+178,178,54,Male,178_left.jpg,178_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+209,210,70,Male,210_left.jpg,210_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+211,212,67,Female,212_left.jpg,212_right.jpg,dry age-related macular degeneration，diabetic retinopathy,dry age-related macular degeneration，diabetic retinopathy,0,1,0,0,1,0,0,0
+212,213,44,Female,213_left.jpg,213_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+229,230,56,Female,230_left.jpg,230_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+234,235,67,Male,235_left.jpg,235_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+237,238,70,Male,238_left.jpg,238_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration,0,0,1,0,1,0,0,0
+242,243,67,Male,243_left.jpg,243_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+246,247,49,Male,247_left.jpg,247_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+259,260,63,Female,260_left.jpg,260_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+263,264,58,Male,264_left.jpg,264_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+264,265,81,Male,265_left.jpg,265_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+265,266,67,Male,266_left.jpg,266_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+269,270,64,Male,270_left.jpg,270_right.jpg,wet age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+291,292,55,Male,292_left.jpg,292_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+310,311,65,Male,311_left.jpg,311_right.jpg,wet age-related macular degeneration,diabetic retinopathy,0,1,0,0,1,0,0,0
+314,315,57,Female,315_left.jpg,315_right.jpg,wet age-related macular degeneration，hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,1,1,0,0
+316,317,24,Female,317_left.jpg,317_right.jpg,idiopathic choroidal neovascularization,normal fundus,0,0,0,0,1,0,0,0
+318,319,58,Female,319_left.jpg,319_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+320,321,54,Female,321_left.jpg,321_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+333,334,74,Female,334_left.jpg,334_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+358,359,54,Male,359_left.jpg,359_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+376,377,48,Male,377_left.jpg,377_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+409,410,53,Female,410_left.jpg,410_right.jpg,dry age-related macular degeneration，macular epiretinal membrane,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+418,419,57,Male,419_left.jpg,419_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+423,424,56,Male,424_left.jpg,424_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+446,447,56,Male,447_left.jpg,447_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+454,455,67,Male,455_left.jpg,455_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+463,464,50,Female,464_left.jpg,464_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+512,513,55,Female,513_left.jpg,513_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+513,514,67,Male,514_left.jpg,514_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+531,532,64,Female,532_left.jpg,532_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+539,540,82,Male,540_left.jpg,540_right.jpg,dry age-related macular degeneration，diabetic retinopathy,normal fundus,0,1,0,0,1,0,0,0
+546,547,69,Male,547_left.jpg,547_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+563,564,53,Female,564_left.jpg,564_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+564,565,59,Female,565_left.jpg,565_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+571,572,74,Female,572_left.jpg,572_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+602,603,66,Female,603_left.jpg,603_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+607,608,55,Male,608_left.jpg,608_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+609,610,59,Female,610_left.jpg,610_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+613,614,44,Male,614_left.jpg,614_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+614,615,60,Male,615_left.jpg,615_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+637,638,52,Male,638_left.jpg,638_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+650,651,58,Male,651_left.jpg,651_right.jpg,myopia retinopathy,wet age-related macular degeneration，myopia retinopathy,0,0,0,0,1,0,1,0
+661,662,70,Male,662_left.jpg,662_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+679,681,56,Male,681_left.jpg,681_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+710,712,62,Male,712_left.jpg,712_right.jpg,diabetic retinopathy,wet age-related macular degeneration,0,1,0,0,1,0,0,0
+717,719,59,Female,719_left.jpg,719_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+759,761,56,Female,761_left.jpg,761_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+773,775,60,Male,775_left.jpg,775_right.jpg,dry age-related macular degeneration，diabetic retinopathy,dry age-related macular degeneration，diabetic retinopathy,0,1,0,0,1,0,0,0
+786,788,48,Male,788_left.jpg,788_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+806,808,48,Male,808_left.jpg,808_right.jpg,wet age-related macular degeneration,diabetic retinopathy,0,1,0,0,1,0,0,0
+813,815,56,Female,815_left.jpg,815_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+819,821,60,Female,821_left.jpg,821_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+845,847,56,Female,847_left.jpg,847_right.jpg,dry age-related macular degeneration，post laser photocoagulation,wet age-related macular degeneration，diffuse chorioretinal atrophy,0,0,0,0,1,0,0,1
+850,852,67,Female,852_left.jpg,852_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+853,855,55,Female,855_left.jpg,855_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+868,870,69,Male,870_left.jpg,870_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+883,885,54,Male,885_left.jpg,885_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+884,886,65,Female,886_left.jpg,886_right.jpg,dry age-related macular degeneration,refractive media opacity,0,0,0,0,1,0,0,0
+886,888,56,Male,888_left.jpg,888_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+887,889,58,Female,889_left.jpg,889_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+908,910,62,Male,910_left.jpg,910_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+925,927,66,Male,927_left.jpg,927_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+932,934,72,Female,934_left.jpg,934_right.jpg,diabetic retinopathy，dry age-related macular degeneration,diabetic retinopathy,0,1,0,0,1,0,0,0
+935,938,76,Male,938_left.jpg,938_right.jpg,diabetic retinopathy，dry age-related macular degeneration,dry age-related macular degeneration，myopia retinopathy,0,1,0,0,1,0,0,0
+958,961,72,Male,961_left.jpg,961_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+967,971,56,Male,971_left.jpg,971_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+973,977,81,Female,977_left.jpg,977_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+974,978,59,Male,978_left.jpg,978_right.jpg,diabetic retinopathy,diabetic retinopathy，wet age-related macular degeneration,0,1,0,0,1,0,0,0
+987,992,53,Female,992_left.jpg,992_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+992,998,36,Male,998_left.jpg,998_right.jpg,dry age-related macular degeneration，hypertensive retinopathy,dry age-related macular degeneration，hypertensive retinopathy,0,0,0,0,1,1,0,0
+1023,1043,57,Female,1043_left.jpg,1043_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1037,1064,61,Male,1064_left.jpg,1064_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1038,1065,75,Male,1065_left.jpg,1065_right.jpg,myopia retinopathy,dry age-related macular degeneration,0,0,0,0,1,0,1,0
+1042,1072,54,Female,1072_left.jpg,1072_right.jpg,normal fundus,normal fundus,0,0,0,0,1,0,0,0
+1044,1075,67,Male,1075_left.jpg,1075_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1052,1085,32,Male,1085_left.jpg,1085_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1057,1091,70,Female,1091_left.jpg,1091_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1064,1098,66,Male,1098_left.jpg,1098_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1069,1104,66,Female,1104_left.jpg,1104_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1072,1111,65,Female,1111_left.jpg,1111_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1085,1125,37,Female,1125_left.jpg,1125_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1109,1154,43,Female,1154_left.jpg,1154_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1129,1191,58,Male,1191_left.jpg,1191_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1131,1196,67,Male,1196_left.jpg,1196_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1132,1197,54,Female,1197_left.jpg,1197_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1135,1202,42,Female,1202_left.jpg,1202_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration，choroidal nevus,0,0,0,0,1,0,0,0
+1170,1243,81,Female,1243_left.jpg,1243_right.jpg,dry age-related macular degeneration，glaucoma,image offset,0,0,1,0,1,0,0,0
+1201,1280,50,Female,1280_left.jpg,1280_right.jpg,normal fundus,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1213,1295,64,Female,1295_left.jpg,1295_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1227,1314,43,Female,1314_left.jpg,1314_right.jpg,wet age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1303,1458,75,Female,1458_left.jpg,1458_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1466,1799,72,Female,1799_left.jpg,1799_right.jpg,dry age-related macular degeneration,tessellated fundus,0,0,0,0,1,0,1,0
+1467,1801,61,Female,1801_left.jpg,1801_right.jpg,dry age-related macular degeneration,tessellated fundus,0,0,0,0,1,0,1,0
+1468,1817,51,Female,1817_left.jpg,1817_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1469,1819,80,Male,1819_left.jpg,1819_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1470,1820,65,Male,1820_left.jpg,1820_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1471,1829,1,Female,1829_left.jpg,1829_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1472,1830,54,Female,1830_left.jpg,1830_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1473,1831,68,Male,1831_left.jpg,1831_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1475,1834,60,Female,1834_left.jpg,1834_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1476,1835,64,Female,1835_left.jpg,1835_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1477,1836,45,Female,1836_left.jpg,1836_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1478,1837,49,Male,1837_left.jpg,1837_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1480,1840,61,Male,1840_left.jpg,1840_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1481,1841,68,Male,1841_left.jpg,1841_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1482,1843,79,Female,1843_left.jpg,1843_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1483,1844,67,Male,1844_left.jpg,1844_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1484,1845,55,Male,1845_left.jpg,1845_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1485,1846,73,Female,1846_left.jpg,1846_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1486,1847,61,Female,1847_left.jpg,1847_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1487,1850,65,Female,1850_left.jpg,1850_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1488,1853,48,Male,1853_left.jpg,1853_right.jpg,dry age-related macular degeneration,hypertensive retinopathy,0,0,0,0,1,1,0,0
+1489,1854,83,Male,1854_left.jpg,1854_right.jpg,wet age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1490,1856,84,Female,1856_left.jpg,1856_right.jpg,wet age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1491,1857,66,Male,1857_left.jpg,1857_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1492,1859,59,Male,1859_left.jpg,1859_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1493,1862,67,Female,1862_left.jpg,1862_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1497,1868,63,Male,1868_left.jpg,1868_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1498,1869,75,Male,1869_left.jpg,1869_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1499,1872,63,Male,1872_left.jpg,1872_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1500,1873,66,Male,1873_left.jpg,1873_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1501,1874,87,Male,1874_left.jpg,1874_right.jpg,dry age-related macular degeneration,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1502,1876,62,Male,1876_left.jpg,1876_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1503,1877,64,Male,1877_left.jpg,1877_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1504,1878,63,Female,1878_left.jpg,1878_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1505,1879,68,Male,1879_left.jpg,1879_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1506,1880,68,Male,1880_left.jpg,1880_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1507,1881,67,Female,1881_left.jpg,1881_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1508,1884,78,Female,1884_left.jpg,1884_right.jpg,wet age-related macular degeneration,refractive media opacity,0,0,0,0,1,0,0,0
+1509,1885,66,Male,1885_left.jpg,1885_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1510,1886,74,Female,1886_left.jpg,1886_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1511,1889,45,Male,1889_left.jpg,1889_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1512,1890,55,Female,1890_left.jpg,1890_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1513,1891,64,Male,1891_left.jpg,1891_right.jpg,wet age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1514,1892,69,Female,1892_left.jpg,1892_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1515,1893,67,Female,1893_left.jpg,1893_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1516,1919,50,Male,1919_left.jpg,1919_right.jpg,dry age-related macular degeneration,refractive media opacity,0,0,0,0,1,0,0,1
+1517,1927,61,Female,1927_left.jpg,1927_right.jpg,optic nerve atrophy,optic nerve atrophy，dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1518,1942,52,Male,1942_left.jpg,1942_right.jpg,diabetic retinopathy，dry age-related macular degeneration,diabetic retinopathy，dry age-related macular degeneration,0,1,0,0,1,0,0,0
+1545,2034,63,Male,2034_left.jpg,2034_right.jpg,myelinated nerve fibers，old branch retinal vein occlusion,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1546,2041,55,Female,2041_left.jpg,2041_right.jpg,tessellated fundus,glaucoma，wet age-related macular degeneration,0,0,1,0,1,0,1,0
+1547,2048,63,Male,2048_left.jpg,2048_right.jpg,glaucoma，old central retinal vein occlusion,hypertensive retinopathy,0,0,0,0,1,1,0,1
+1549,2053,47,Male,2053_left.jpg,2053_right.jpg,central serous chorioretinopathy,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1552,2065,58,Male,2065_left.jpg,2065_right.jpg,myelinated nerve fibers,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1556,2078,42,Female,2078_left.jpg,2078_right.jpg,diabetic retinopathy，macular epiretinal membrane,diabetic retinopathy，wet age-related macular degeneration,0,1,0,0,1,0,0,0
+2834,3940,42,Female,3940_left.jpg,3940_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,1,0,0,0
+2853,3961,46,Male,3961_left.jpg,3961_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,1,0,0,0
+2866,3979,54,Male,3979_left.jpg,3979_right.jpg,mild nonproliferative retinopathy，dry age-related macular degeneration,mild nonproliferative retinopathy，dry age-related macular degeneration,0,1,0,0,1,0,0,0
+2906,4027,67,Female,4027_left.jpg,4027_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,1,0,0,0
+2929,4052,55,Male,4052_left.jpg,4052_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,1,0,0,0
+2943,4068,58,Male,4068_left.jpg,4068_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，age-related macular degeneration,0,1,0,0,1,0,0,0
+3017,4152,66,Female,4152_left.jpg,4152_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,1,0,0,0
+3187,4330,57,Female,4330_left.jpg,4330_right.jpg,normal fundus,mild nonproliferative retinopathy，dry age-related macular degeneration,0,1,0,0,1,0,0,0
+3499,4784,58,Male,4784_left.jpg,4784_right.jpg,hypertensive retinopathy，age-related macular degeneration,hypertensive retinopathy，age-related macular degeneration,0,0,0,0,1,1,0,0

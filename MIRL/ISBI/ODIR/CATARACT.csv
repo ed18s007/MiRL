@@ -1,0 +1,212 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+0,0,69,Female,0_left.jpg,0_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+24,24,75,Female,24_left.jpg,24_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+81,81,66,Male,81_left.jpg,81_right.jpg,moderate non proliferative retinopathy，cataract,moderate non proliferative retinopathy，cataract,0,1,0,1,0,0,0,0
+103,103,55,Female,103_left.jpg,103_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+112,112,57,Female,112_left.jpg,112_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+119,119,59,Male,119_left.jpg,119_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+188,188,55,Female,188_left.jpg,188_right.jpg,laser spot，severe proliferative diabetic retinopathy,cataract,0,1,0,1,0,0,0,0
+217,218,36,Female,218_left.jpg,218_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+253,254,60,Female,254_left.jpg,254_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+293,294,69,Female,294_left.jpg,294_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+329,330,65,Female,330_left.jpg,330_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+344,345,64,Female,345_left.jpg,345_right.jpg,hypertensive retinopathy,hypertensive retinopathy，cataract,0,0,0,1,0,1,0,0
+353,354,65,Male,354_left.jpg,354_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+447,448,68,Male,448_left.jpg,448_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+464,465,58,Female,465_left.jpg,465_right.jpg,drusen，cataract，lens dust,drusen,0,0,0,1,0,0,0,1
+476,477,65,Female,477_left.jpg,477_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+552,553,69,Female,553_left.jpg,553_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+559,560,74,Male,560_left.jpg,560_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+593,594,70,Female,594_left.jpg,594_right.jpg,cataract，lens dust,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+610,611,73,Male,611_left.jpg,611_right.jpg,cataract,epiretinal membrane，normal fundus,0,0,0,1,0,0,0,1
+624,625,72,Female,625_left.jpg,625_right.jpg,cataract，suspected glaucoma,cataract，branch retinal vein occlusion,0,0,0,1,0,0,0,1
+628,629,73,Female,629_left.jpg,629_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+689,691,68,Female,691_left.jpg,691_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+724,726,60,Female,726_left.jpg,726_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+748,750,56,Male,750_left.jpg,750_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+767,769,58,Female,769_left.jpg,769_right.jpg,mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+807,809,67,Male,809_left.jpg,809_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+818,820,82,Female,820_left.jpg,820_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+822,824,74,Female,824_left.jpg,824_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+872,874,60,Female,874_left.jpg,874_right.jpg,cataract，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+905,907,74,Male,907_left.jpg,907_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+946,949,49,Male,949_left.jpg,949_right.jpg,moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+952,955,75,Male,955_left.jpg,955_right.jpg,lens dust，normal fundus,cataract,0,0,0,1,0,0,0,0
+966,970,56,Female,970_left.jpg,970_right.jpg,cataract，moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+993,999,56,Female,999_left.jpg,999_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1036,1062,61,Female,1062_left.jpg,1062_right.jpg,lens dust，normal fundus,cataract,0,0,0,1,0,0,0,0
+1050,1083,55,Female,1083_left.jpg,1083_right.jpg,cataract，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1051,1084,60,Male,1084_left.jpg,1084_right.jpg,moderate non proliferative retinopathy,cataract，mild nonproliferative retinopathy,0,1,0,1,0,0,0,0
+1066,1101,68,Female,1101_left.jpg,1101_right.jpg,lens dust，normal fundus,lens dust，cataract,0,0,0,1,0,0,0,0
+1067,1102,56,Male,1102_left.jpg,1102_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1075,1115,81,Female,1115_left.jpg,1115_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1086,1126,64,Female,1126_left.jpg,1126_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1100,1144,60,Male,1144_left.jpg,1144_right.jpg,cataract,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1115,1164,67,Female,1164_left.jpg,1164_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1118,1167,64,Male,1167_left.jpg,1167_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，cataract,0,1,0,1,0,0,0,0
+1205,1285,62,Female,1285_left.jpg,1285_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1270,1415,81,Female,1415_left.jpg,1415_right.jpg,cataract,cataract，suspected glaucoma,0,0,0,1,0,0,0,1
+1288,1435,79,Male,1435_left.jpg,1435_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1295,1444,73,Female,1444_left.jpg,1444_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1298,1452,57,Male,1452_left.jpg,1452_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1300,1454,79,Male,1454_left.jpg,1454_right.jpg,epiretinal membrane,cataract,0,0,0,1,0,0,0,1
+1302,1456,81,Male,1456_left.jpg,1456_right.jpg,cataract，lens dust,lens dust，cataract,0,0,0,1,0,0,0,0
+1304,1460,62,Female,1460_left.jpg,1460_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1308,1468,79,Male,1468_left.jpg,1468_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1321,1483,69,Female,1483_left.jpg,1483_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1322,1484,65,Female,1484_left.jpg,1484_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1328,1490,79,Female,1490_left.jpg,1490_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1524,1968,52,Male,1968_left.jpg,1968_right.jpg,cataract，lens dust,lens dust，myelinated nerve fibers,0,0,0,1,0,0,0,1
+1534,1987,70,Female,1987_left.jpg,1987_right.jpg,cataract,myelinated nerve fibers,0,0,0,1,0,0,0,1
+1537,1994,67,Male,1994_left.jpg,1994_right.jpg,cataract，myelinated nerve fibers，moderate non proliferative retinopathy,mild nonproliferative retinopathy,0,1,0,1,0,0,0,1
+1548,2052,62,Male,2052_left.jpg,2052_right.jpg,hypertensive retinopathy，cataract,hypertensive retinopathy，cataract,0,0,0,1,0,1,0,0
+1555,2074,24,Male,2074_left.jpg,2074_right.jpg,glaucoma，lens dust,cataract，suspected cataract,0,0,1,1,0,0,0,1
+1557,2095,76,Female,2095_left.jpg,2095_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1558,2096,74,Male,2096_left.jpg,2096_right.jpg,mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1559,2097,74,Female,2097_left.jpg,2097_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1560,2098,75,Female,2098_left.jpg,2098_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1561,2099,69,Female,2099_left.jpg,2099_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1562,2100,31,Male,2100_left.jpg,2100_right.jpg,moderate non proliferative retinopathy，refractive media opacity,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,1
+1563,2101,62,Male,2101_left.jpg,2101_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1564,2102,67,Female,2102_left.jpg,2102_right.jpg,laser spot，cataract,cataract，laser spot,0,0,0,1,0,0,0,0
+1565,2103,61,Female,2103_left.jpg,2103_right.jpg,cataract，mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1566,2104,74,Male,2104_left.jpg,2104_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1567,2105,76,Female,2105_left.jpg,2105_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1568,2106,81,Female,2106_left.jpg,2106_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1569,2107,78,Male,2107_left.jpg,2107_right.jpg,cataract,laser spot，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1570,2108,64,Female,2108_left.jpg,2108_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1571,2109,82,Male,2109_left.jpg,2109_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1572,2110,70,Female,2110_left.jpg,2110_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1573,2111,73,Female,2111_left.jpg,2111_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1574,2112,62,Female,2112_left.jpg,2112_right.jpg,normal fundus，lens dust,cataract,0,0,0,1,0,0,0,0
+1575,2113,52,Female,2113_left.jpg,2113_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1576,2114,80,Female,2114_left.jpg,2114_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1577,2115,71,Female,2115_left.jpg,2115_right.jpg,moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1578,2116,81,Female,2116_left.jpg,2116_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1579,2117,71,Female,2117_left.jpg,2117_right.jpg,cataract,mild nonproliferative retinopathy,0,1,0,1,0,0,0,0
+1580,2118,77,Female,2118_left.jpg,2118_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+1581,2119,91,Male,2119_left.jpg,2119_right.jpg,normal fundus,cataract，lens dust,0,0,0,1,0,0,0,0
+1582,2120,72,Female,2120_left.jpg,2120_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1583,2121,56,Male,2121_left.jpg,2121_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1584,2122,85,Male,2122_left.jpg,2122_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1585,2123,47,Male,2123_left.jpg,2123_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1586,2124,61,Female,2124_left.jpg,2124_right.jpg,cataract,epiretinal membrane,0,0,0,1,0,0,0,1
+1587,2125,83,Female,2125_left.jpg,2125_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1588,2126,75,Male,2126_left.jpg,2126_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1589,2127,70,Male,2127_left.jpg,2127_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1590,2128,81,Female,2128_left.jpg,2128_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1591,2129,73,Male,2129_left.jpg,2129_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1592,2130,54,Male,2130_left.jpg,2130_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1593,2132,59,Female,2132_left.jpg,2132_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1594,2133,63,Male,2133_left.jpg,2133_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1595,2134,54,Female,2134_left.jpg,2134_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1596,2135,71,Female,2135_left.jpg,2135_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1597,2136,76,Female,2136_left.jpg,2136_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1598,2137,44,Female,2137_left.jpg,2137_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1599,2138,79,Female,2138_left.jpg,2138_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1600,2139,71,Male,2139_left.jpg,2139_right.jpg,lens dust，normal fundus,cataract,0,0,0,1,0,0,0,0
+1601,2140,70,Male,2140_left.jpg,2140_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1602,2141,51,Male,2141_left.jpg,2141_right.jpg,mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1603,2142,75,Female,2142_left.jpg,2142_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1604,2143,83,Female,2143_left.jpg,2143_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1605,2144,75,Male,2144_left.jpg,2144_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1606,2145,73,Female,2145_left.jpg,2145_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1607,2146,87,Male,2146_left.jpg,2146_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1608,2147,55,Female,2147_left.jpg,2147_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1609,2149,73,Female,2149_left.jpg,2149_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1610,2150,78,Male,2150_left.jpg,2150_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1611,2151,51,Female,2151_left.jpg,2151_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1612,2152,58,Female,2152_left.jpg,2152_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1613,2153,54,Male,2153_left.jpg,2153_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1614,2154,83,Male,2154_left.jpg,2154_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1615,2155,72,Male,2155_left.jpg,2155_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1616,2156,78,Male,2156_left.jpg,2156_right.jpg,cataract,mild nonproliferative retinopathy,0,1,0,1,0,0,0,0
+1617,2157,80,Female,2157_left.jpg,2157_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1618,2158,61,Female,2158_left.jpg,2158_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1619,2159,53,Male,2159_left.jpg,2159_right.jpg,cataract,lens dust，normal fundus,0,0,0,1,0,0,0,0
+1620,2160,76,Female,2160_left.jpg,2160_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1621,2161,59,Male,2161_left.jpg,2161_right.jpg,moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1622,2162,63,Male,2162_left.jpg,2162_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1623,2163,58,Male,2163_left.jpg,2163_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1624,2164,67,Male,2164_left.jpg,2164_right.jpg,cataract，mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1625,2165,36,Female,2165_left.jpg,2165_right.jpg,moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1626,2166,60,Male,2166_left.jpg,2166_right.jpg,cataract,moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1627,2167,75,Female,2167_left.jpg,2167_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1628,2168,64,Female,2168_left.jpg,2168_right.jpg,cataract,cataract，laser spot，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1629,2169,42,Male,2169_left.jpg,2169_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1630,2170,35,Male,2170_left.jpg,2170_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1631,2171,87,Female,2171_left.jpg,2171_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1632,2172,73,Male,2172_left.jpg,2172_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1633,2173,81,Female,2173_left.jpg,2173_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+1634,2174,65,Female,2174_left.jpg,2174_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1635,2175,63,Male,2175_left.jpg,2175_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1636,2176,82,Female,2176_left.jpg,2176_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1637,2177,87,Male,2177_left.jpg,2177_right.jpg,normal fundus，lens dust,cataract,0,0,0,1,0,0,0,0
+1638,2178,84,Male,2178_left.jpg,2178_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1639,2179,70,Female,2179_left.jpg,2179_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1640,2180,66,Female,2180_left.jpg,2180_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1641,2181,79,Female,2181_left.jpg,2181_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1642,2182,70,Male,2182_left.jpg,2182_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1643,2183,47,Female,2183_left.jpg,2183_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1644,2184,65,Female,2184_left.jpg,2184_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1645,2185,72,Female,2185_left.jpg,2185_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1646,2187,63,Female,2187_left.jpg,2187_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1647,2189,81,Female,2189_left.jpg,2189_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1648,2190,84,Female,2190_left.jpg,2190_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1649,2191,80,Female,2191_left.jpg,2191_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1650,2192,50,Female,2192_left.jpg,2192_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1651,2193,50,Female,2193_left.jpg,2193_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1652,2194,50,Male,2194_left.jpg,2194_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1653,2195,47,Female,2195_left.jpg,2195_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1654,2196,69,Female,2196_left.jpg,2196_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1655,2197,52,Male,2197_left.jpg,2197_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1656,2198,69,Female,2198_left.jpg,2198_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1657,2199,69,Female,2199_left.jpg,2199_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+1658,2200,64,Female,2200_left.jpg,2200_right.jpg,cataract,moderate non proliferative retinopathy，laser spot,0,1,0,1,0,0,0,0
+1659,2201,59,Male,2201_left.jpg,2201_right.jpg,mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1660,2203,59,Female,2203_left.jpg,2203_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1661,2204,64,Female,2204_left.jpg,2204_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1662,2205,51,Female,2205_left.jpg,2205_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1663,2206,65,Female,2206_left.jpg,2206_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1664,2207,65,Male,2207_left.jpg,2207_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1665,2208,62,Male,2208_left.jpg,2208_right.jpg,normal fundus，lens dust,cataract,0,0,0,1,0,0,0,0
+1666,2209,80,Male,2209_left.jpg,2209_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1667,2210,78,Female,2210_left.jpg,2210_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1668,2211,80,Male,2211_left.jpg,2211_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1669,2212,82,Male,2212_left.jpg,2212_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1670,2213,83,Female,2213_left.jpg,2213_right.jpg,cataract，lens dust,cataract,0,0,0,1,0,0,0,0
+1671,2214,75,Female,2214_left.jpg,2214_right.jpg,lens dust，cataract,lens dust，cataract,0,0,0,1,0,0,0,0
+1672,2215,69,Male,2215_left.jpg,2215_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1673,2216,38,Male,2216_left.jpg,2216_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1674,2217,85,Female,2217_left.jpg,2217_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1675,2218,48,Male,2218_left.jpg,2218_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1676,2219,68,Female,2219_left.jpg,2219_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1677,2220,54,Female,2220_left.jpg,2220_right.jpg,severe proliferative diabetic retinopathy,cataract,0,1,0,1,0,0,0,0
+1678,2221,71,Male,2221_left.jpg,2221_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1679,2222,45,Female,2222_left.jpg,2222_right.jpg,cataract，lens dust,epiretinal membrane,0,0,0,1,0,0,0,1
+1680,2223,56,Male,2223_left.jpg,2223_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1681,2225,57,Male,2225_left.jpg,2225_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1682,2226,52,Female,2226_left.jpg,2226_right.jpg,cataract,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1683,2227,62,Female,2227_left.jpg,2227_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1684,2228,64,Female,2228_left.jpg,2228_right.jpg,mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+1685,2229,59,Female,2229_left.jpg,2229_right.jpg,cataract，lens dust,lens dust，cataract,0,0,0,1,0,0,0,0
+1686,2230,60,Female,2230_left.jpg,2230_right.jpg,lens dust，cataract,lens dust，cataract,0,0,0,1,0,0,0,0
+1687,2231,66,Female,2231_left.jpg,2231_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+1688,2232,75,Male,2232_left.jpg,2232_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1689,2233,77,Female,2233_left.jpg,2233_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1690,2234,66,Female,2234_left.jpg,2234_right.jpg,cataract,moderate non proliferative retinopathy，cataract,0,1,0,1,0,0,0,0
+1691,2235,64,Male,2235_left.jpg,2235_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1692,2236,72,Female,2236_left.jpg,2236_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1693,2237,76,Male,2237_left.jpg,2237_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1694,2239,46,Male,2239_left.jpg,2239_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1695,2240,64,Male,2240_left.jpg,2240_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1696,2241,50,Female,2241_left.jpg,2241_right.jpg,cataract，lens dust,lens dust，normal fundus,0,0,0,1,0,0,0,0
+1697,2242,63,Male,2242_left.jpg,2242_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1698,2243,80,Male,2243_left.jpg,2243_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1699,2244,76,Male,2244_left.jpg,2244_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+1700,2246,69,Male,2246_left.jpg,2246_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1701,2247,73,Male,2247_left.jpg,2247_right.jpg,cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+1702,2248,74,Female,2248_left.jpg,2248_right.jpg,cataract，lens dust,cataract，lens dust,0,0,0,1,0,0,0,0
+1703,2251,70,Male,2251_left.jpg,2251_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+1704,2262,65,Female,2262_left.jpg,2262_right.jpg,cataract,mild nonproliferative retinopathy,0,1,0,1,0,0,0,0
+1705,2282,64,Male,2282_left.jpg,2282_right.jpg,severe proliferative diabetic retinopathy,cataract，vitreous degeneration,0,1,0,1,0,0,0,1

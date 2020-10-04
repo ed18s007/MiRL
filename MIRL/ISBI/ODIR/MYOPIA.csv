@@ -1,0 +1,178 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+13,13,60,Female,13_left.jpg,13_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+16,16,54,Female,16_left.jpg,16_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+18,18,58,Male,18_left.jpg,18_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+35,35,68,Female,35_left.jpg,35_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+39,39,74,Male,39_left.jpg,39_right.jpg,pathological myopia,lens dust，pathological myopia,0,0,0,0,0,0,1,0
+46,46,66,Male,46_left.jpg,46_right.jpg,moderate non proliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+54,54,66,Female,54_left.jpg,54_right.jpg,normal fundus,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,0
+86,86,56,Female,86_left.jpg,86_right.jpg,mild nonproliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+106,106,57,Female,106_left.jpg,106_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+144,144,49,Female,144_left.jpg,144_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+145,145,50,Male,145_left.jpg,145_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+174,174,71,Female,174_left.jpg,174_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+213,214,70,Male,214_left.jpg,214_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+224,225,70,Female,225_left.jpg,225_right.jpg,pathological myopia,moderate non proliferative retinopathy,0,1,0,0,0,0,1,0
+232,233,56,Male,233_left.jpg,233_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+260,261,71,Female,261_left.jpg,261_right.jpg,maculopathy,tessellated fundus,0,0,0,0,0,0,1,1
+374,375,64,Male,375_left.jpg,375_right.jpg,punctate inner choroidopathy，myopia retinopathy,punctate inner choroidopathy，myopia retinopathy,0,0,0,0,0,0,1,1
+378,379,77,Female,379_left.jpg,379_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+381,382,62,Female,382_left.jpg,382_right.jpg,myopic maculopathy,myopic maculopathy,0,0,0,0,0,0,1,0
+389,390,59,Female,390_left.jpg,390_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+400,401,60,Female,401_left.jpg,401_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+474,475,58,Female,475_left.jpg,475_right.jpg,moderate non proliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+480,481,69,Female,481_left.jpg,481_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+503,504,78,Female,504_left.jpg,504_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+524,525,77,Female,525_left.jpg,525_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+566,567,60,Male,567_left.jpg,567_right.jpg,mild nonproliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+650,651,58,Male,651_left.jpg,651_right.jpg,myopia retinopathy,wet age-related macular degeneration，myopia retinopathy,0,0,0,0,1,0,1,0
+696,698,65,Male,698_left.jpg,698_right.jpg,moderate non proliferative retinopathy,pathological myopia，lens dust,0,1,0,0,0,0,1,0
+720,722,64,Male,722_left.jpg,722_right.jpg,mild nonproliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+735,737,41,Male,737_left.jpg,737_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+739,741,64,Female,741_left.jpg,741_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+758,760,56,Female,760_left.jpg,760_right.jpg,pathological myopia,old chorioretinopathy,0,0,0,0,0,0,1,1
+769,771,45,Female,771_left.jpg,771_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+829,831,54,Male,831_left.jpg,831_right.jpg,pathological myopia,pathological myopia，moderate non proliferative retinopathy,0,1,0,0,0,0,1,0
+906,908,74,Female,908_left.jpg,908_right.jpg,lens dust,pathological myopia,0,0,0,0,0,0,1,0
+999,1012,56,Female,1012_left.jpg,1012_right.jpg,drusen,pathological myopia,0,0,0,0,0,0,1,1
+1007,1020,67,Male,1020_left.jpg,1020_right.jpg,myopia retinopathy,glaucoma,0,0,1,0,0,0,1,1
+1038,1065,75,Male,1065_left.jpg,1065_right.jpg,myopia retinopathy,dry age-related macular degeneration,0,0,0,0,1,0,1,0
+1068,1103,29,Male,1103_left.jpg,1103_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1105,1150,71,Male,1150_left.jpg,1150_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1137,1206,54,Male,1206_left.jpg,1206_right.jpg,mild nonproliferative retinopathy,pathological myopia,0,1,0,0,0,0,1,0
+1144,1213,76,Male,1213_left.jpg,1213_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1150,1219,72,Female,1219_left.jpg,1219_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,1
+1154,1225,39,Male,1225_left.jpg,1225_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1175,1250,54,Male,1250_left.jpg,1250_right.jpg,myopic maculopathy,glaucoma,0,0,1,0,0,0,1,0
+1200,1279,84,Female,1279_left.jpg,1279_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1236,1349,73,Male,1349_left.jpg,1349_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1241,1364,53,Female,1364_left.jpg,1364_right.jpg,normal fundus,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,0
+1243,1366,81,Female,1366_left.jpg,1366_right.jpg,myopic retinopathy,myopic retinopathy,0,0,0,0,0,0,1,0
+1340,1513,79,Female,1513_left.jpg,1513_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1343,1516,71,Female,1516_left.jpg,1516_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,0
+1344,1519,68,Female,1519_left.jpg,1519_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1345,1520,57,Male,1520_left.jpg,1520_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,0
+1346,1523,76,Female,1523_left.jpg,1523_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1347,1526,74,Female,1526_left.jpg,1526_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1348,1527,64,Female,1527_left.jpg,1527_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1349,1528,59,Female,1528_left.jpg,1528_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,0
+1350,1529,57,Male,1529_left.jpg,1529_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1351,1530,70,Male,1530_left.jpg,1530_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1352,1531,63,Female,1531_left.jpg,1531_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1353,1532,62,Female,1532_left.jpg,1532_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1354,1533,62,Female,1533_left.jpg,1533_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1355,1534,67,Female,1534_left.jpg,1534_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1356,1535,45,Male,1535_left.jpg,1535_right.jpg,pathological myopia,pathological myopia，lens dust,0,0,0,0,0,0,1,0
+1357,1536,66,Female,1536_left.jpg,1536_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,0
+1358,1537,42,Male,1537_left.jpg,1537_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1359,1538,49,Female,1538_left.jpg,1538_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1360,1539,68,Male,1539_left.jpg,1539_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1361,1540,56,Female,1540_left.jpg,1540_right.jpg,lens dust，pathological myopia,pathological myopia，lens dust,0,0,0,0,0,0,1,0
+1362,1541,50,Male,1541_left.jpg,1541_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1363,1543,30,Female,1543_left.jpg,1543_right.jpg,suspected moderate non proliferative retinopathy，pathological myopia,pathological myopia,0,1,0,0,0,0,1,0
+1364,1544,68,Female,1544_left.jpg,1544_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1365,1545,58,Female,1545_left.jpg,1545_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1366,1546,53,Male,1546_left.jpg,1546_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1367,1547,66,Female,1547_left.jpg,1547_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1368,1548,63,Female,1548_left.jpg,1548_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1369,1549,78,Female,1549_left.jpg,1549_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1370,1550,76,Male,1550_left.jpg,1550_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1371,1551,50,Male,1551_left.jpg,1551_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1372,1552,67,Male,1552_left.jpg,1552_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1373,1553,51,Female,1553_left.jpg,1553_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1374,1554,78,Female,1554_left.jpg,1554_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1375,1555,71,Male,1555_left.jpg,1555_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1376,1556,66,Female,1556_left.jpg,1556_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1377,1557,35,Female,1557_left.jpg,1557_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,0
+1378,1558,73,Female,1558_left.jpg,1558_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1379,1559,56,Female,1559_left.jpg,1559_right.jpg,pathological myopia,pathological myopia，suspected macular epimacular membrane,0,0,0,0,0,0,1,1
+1380,1560,77,Female,1560_left.jpg,1560_right.jpg,tessellated fundus，normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1381,1561,63,Female,1561_left.jpg,1561_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1382,1562,62,Female,1562_left.jpg,1562_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1383,1563,1,Female,1563_left.jpg,1563_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1384,1564,1,Female,1564_left.jpg,1564_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1385,1565,1,Female,1565_left.jpg,1565_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1386,1566,75,Female,1566_left.jpg,1566_right.jpg,pathological myopia,tessellated fundus，normal fundus,0,0,0,0,0,0,1,0
+1387,1567,47,Male,1567_left.jpg,1567_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1388,1568,1,Female,1568_left.jpg,1568_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1389,1569,50,Male,1569_left.jpg,1569_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1390,1570,46,Female,1570_left.jpg,1570_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1391,1571,65,Male,1571_left.jpg,1571_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1392,1572,75,Male,1572_left.jpg,1572_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1393,1573,69,Female,1573_left.jpg,1573_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1394,1574,73,Female,1574_left.jpg,1574_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1395,1576,67,Female,1576_left.jpg,1576_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1396,1578,34,Female,1578_left.jpg,1578_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1397,1579,57,Female,1579_left.jpg,1579_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1398,1580,58,Female,1580_left.jpg,1580_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1399,1581,58,Female,1581_left.jpg,1581_right.jpg,tessellated fundus,pathological myopia,0,0,0,0,0,0,1,1
+1400,1583,1,Female,1583_left.jpg,1583_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1401,1584,73,Female,1584_left.jpg,1584_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1402,1585,56,Female,1585_left.jpg,1585_right.jpg,tessellated fundus，chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1403,1586,60,Female,1586_left.jpg,1586_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1404,1588,1,Female,1588_left.jpg,1588_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1405,1589,1,Female,1589_left.jpg,1589_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1406,1590,1,Female,1590_left.jpg,1590_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1407,1591,62,Female,1591_left.jpg,1591_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1408,1593,57,Female,1593_left.jpg,1593_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1409,1594,65,Female,1594_left.jpg,1594_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1410,1595,1,Female,1595_left.jpg,1595_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1411,1597,64,Female,1597_left.jpg,1597_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1412,1598,60,Female,1598_left.jpg,1598_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1413,1599,1,Female,1599_left.jpg,1599_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1414,1600,1,Female,1600_left.jpg,1600_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1415,1601,73,Female,1601_left.jpg,1601_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1416,1602,38,Female,1602_left.jpg,1602_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1417,1603,1,Female,1603_left.jpg,1603_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1418,1605,54,Male,1605_left.jpg,1605_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1419,1606,54,Male,1606_left.jpg,1606_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1420,1607,62,Female,1607_left.jpg,1607_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1421,1609,58,Female,1609_left.jpg,1609_right.jpg,pathological myopia,drusen,0,0,0,0,0,0,1,1
+1422,1610,64,Male,1610_left.jpg,1610_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1423,1611,70,Female,1611_left.jpg,1611_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1424,1612,53,Female,1612_left.jpg,1612_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1425,1613,66,Female,1613_left.jpg,1613_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1426,1614,56,Female,1614_left.jpg,1614_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1427,1615,60,Female,1615_left.jpg,1615_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1428,1616,47,Female,1616_left.jpg,1616_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1429,1617,1,Female,1617_left.jpg,1617_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1430,1618,67,Female,1618_left.jpg,1618_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1431,1619,70,Female,1619_left.jpg,1619_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1432,1620,62,Male,1620_left.jpg,1620_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1433,1621,50,Female,1621_left.jpg,1621_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1434,1623,58,Female,1623_left.jpg,1623_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1435,1624,71,Female,1624_left.jpg,1624_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1436,1626,74,Male,1626_left.jpg,1626_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1437,1628,56,Male,1628_left.jpg,1628_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1438,1629,50,Female,1629_left.jpg,1629_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1439,1630,61,Male,1630_left.jpg,1630_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1440,1638,59,Male,1638_left.jpg,1638_right.jpg,pathological myopia,retinal detachment，tessellated fundus,0,0,0,0,0,0,1,1
+1441,1640,45,Male,1640_left.jpg,1640_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1442,1642,63,Male,1642_left.jpg,1642_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1443,1643,69,Male,1643_left.jpg,1643_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1444,1644,63,Female,1644_left.jpg,1644_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1445,1647,69,Male,1647_left.jpg,1647_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,0
+1446,1652,32,Female,1652_left.jpg,1652_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1447,1657,50,Female,1657_left.jpg,1657_right.jpg,lens dust，pathological myopia,mild nonproliferative retinopathy,0,1,0,0,0,0,1,0
+1448,1659,58,Female,1659_left.jpg,1659_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1449,1660,54,Male,1660_left.jpg,1660_right.jpg,myopic retinopathy,myopic retinopathy,0,0,0,0,0,0,1,0
+1450,1662,68,Male,1662_left.jpg,1662_right.jpg,pathological myopia,chorioretinal atrophy,0,0,0,0,0,0,1,1
+1451,1663,77,Male,1663_left.jpg,1663_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1452,1664,45,Female,1664_left.jpg,1664_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1453,1666,47,Male,1666_left.jpg,1666_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1454,1673,73,Male,1673_left.jpg,1673_right.jpg,epiretinal membrane,pathological myopia,0,0,0,0,0,0,1,1
+1455,1674,74,Female,1674_left.jpg,1674_right.jpg,moderate non proliferative retinopathy，pathological myopia,refractive media opacity,0,1,0,0,0,0,1,1
+1456,1677,87,Male,1677_left.jpg,1677_right.jpg,tessellated fundus,pathological myopia,0,0,0,0,0,0,1,1
+1457,1681,70,Male,1681_left.jpg,1681_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1458,1683,72,Female,1683_left.jpg,1683_right.jpg,peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1459,1686,51,Male,1686_left.jpg,1686_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,1
+1460,1694,52,Male,1694_left.jpg,1694_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1461,1706,63,Female,1706_left.jpg,1706_right.jpg,refractive media opacity,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1462,1710,62,Male,1710_left.jpg,1710_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,1
+1463,1716,66,Male,1716_left.jpg,1716_right.jpg,pathological myopia,peripapillary atrophy,0,0,0,0,0,0,1,1
+1464,1718,65,Male,1718_left.jpg,1718_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1465,1731,72,Female,1731_left.jpg,1731_right.jpg,pathological myopia,moderate non proliferative retinopathy，tessellated fundus,0,1,0,0,0,0,1,1
+1466,1799,72,Female,1799_left.jpg,1799_right.jpg,dry age-related macular degeneration,tessellated fundus,0,0,0,0,1,0,1,0
+1467,1801,61,Female,1801_left.jpg,1801_right.jpg,dry age-related macular degeneration,tessellated fundus,0,0,0,0,1,0,1,0
+1526,1971,65,Male,1971_left.jpg,1971_right.jpg,suspected glaucoma,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1546,2041,55,Female,2041_left.jpg,2041_right.jpg,tessellated fundus,glaucoma，wet age-related macular degeneration,0,0,1,0,1,0,1,0

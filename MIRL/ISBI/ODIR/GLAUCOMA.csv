@@ -1,0 +1,208 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+30,30,66,Female,30_left.jpg,30_right.jpg,post laser photocoagulation,post laser photocoagulation，glaucoma,0,0,1,0,0,0,0,1
+43,43,35,Male,43_left.jpg,43_right.jpg,dry age-related macular degeneration，glaucoma,wet age-related macular degeneration,0,0,1,0,1,0,0,0
+153,153,79,Male,153_left.jpg,153_right.jpg,dry age-related macular degeneration,glaucoma,0,0,1,0,1,0,0,0
+167,167,71,Male,167_left.jpg,167_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+178,178,54,Male,178_left.jpg,178_right.jpg,dry age-related macular degeneration,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+237,238,70,Male,238_left.jpg,238_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration,0,0,1,0,1,0,0,0
+246,247,49,Male,247_left.jpg,247_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+582,583,54,Male,583_left.jpg,583_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1007,1020,67,Male,1020_left.jpg,1020_right.jpg,myopia retinopathy,glaucoma,0,0,1,0,0,0,1,1
+1140,1209,69,Female,1209_left.jpg,1209_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1141,1210,62,Male,1210_left.jpg,1210_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1142,1211,80,Male,1211_left.jpg,1211_right.jpg,glaucoma，optic nerve atrophy,glaucoma，optic nerve atrophy,0,0,1,0,0,0,0,1
+1143,1212,73,Female,1212_left.jpg,1212_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1144,1213,76,Male,1213_left.jpg,1213_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1145,1214,70,Female,1214_left.jpg,1214_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1146,1215,68,Male,1215_left.jpg,1215_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1147,1216,45,Male,1216_left.jpg,1216_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1148,1217,70,Male,1217_left.jpg,1217_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1149,1218,68,Female,1218_left.jpg,1218_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1151,1220,58,Female,1220_left.jpg,1220_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1152,1221,70,Male,1221_left.jpg,1221_right.jpg,glaucoma，old central retinal vein occlusion,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1153,1222,59,Male,1222_left.jpg,1222_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1154,1225,39,Male,1225_left.jpg,1225_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1155,1226,74,Female,1226_left.jpg,1226_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1156,1227,62,Female,1227_left.jpg,1227_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1157,1228,67,Male,1228_left.jpg,1228_right.jpg,optic disk photographically invisible,glaucoma,0,0,1,0,0,0,0,0
+1158,1229,66,Male,1229_left.jpg,1229_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1159,1230,52,Male,1230_left.jpg,1230_right.jpg,glaucoma,glaucoma，diabetic retinopathy,0,1,1,0,0,0,0,0
+1160,1231,59,Female,1231_left.jpg,1231_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1161,1232,61,Male,1232_left.jpg,1232_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1162,1234,66,Female,1234_left.jpg,1234_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1164,1237,62,Male,1237_left.jpg,1237_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1165,1238,45,Male,1238_left.jpg,1238_right.jpg,glaucoma，diabetic retinopathy,diabetic retinopathy,0,1,1,0,0,0,0,0
+1166,1239,62,Male,1239_left.jpg,1239_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1168,1241,64,Female,1241_left.jpg,1241_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1170,1243,81,Female,1243_left.jpg,1243_right.jpg,dry age-related macular degeneration，glaucoma,image offset,0,0,1,0,1,0,0,0
+1172,1246,70,Female,1246_left.jpg,1246_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1173,1247,65,Male,1247_left.jpg,1247_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1174,1248,74,Female,1248_left.jpg,1248_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1175,1250,54,Male,1250_left.jpg,1250_right.jpg,myopic maculopathy,glaucoma,0,0,1,0,0,0,1,0
+1176,1251,68,Female,1251_left.jpg,1251_right.jpg,glaucoma，diabetic retinopathy,glaucoma，diabetic retinopathy,0,1,1,0,0,0,0,0
+1178,1254,77,Female,1254_left.jpg,1254_right.jpg,optic disk photographically invisible,glaucoma,0,0,1,0,0,0,0,0
+1179,1255,33,Male,1255_left.jpg,1255_right.jpg,glaucoma,glaucoma，diffuse retinal atrophy,0,0,1,0,0,0,0,1
+1180,1256,84,Male,1256_left.jpg,1256_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1181,1258,72,Male,1258_left.jpg,1258_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1182,1259,56,Male,1259_left.jpg,1259_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1183,1260,66,Female,1260_left.jpg,1260_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1184,1261,62,Female,1261_left.jpg,1261_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1185,1262,70,Female,1262_left.jpg,1262_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1186,1263,62,Male,1263_left.jpg,1263_right.jpg,glaucoma，hypertensive retinopathy,old central retinal vein occlusion,0,0,1,0,0,1,0,0
+1187,1264,54,Male,1264_left.jpg,1264_right.jpg,refractive media opacity,glaucoma,0,0,1,0,0,0,0,1
+1188,1265,75,Male,1265_left.jpg,1265_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1189,1266,68,Male,1266_left.jpg,1266_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1190,1267,55,Male,1267_left.jpg,1267_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1191,1268,56,Female,1268_left.jpg,1268_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1192,1269,81,Female,1269_left.jpg,1269_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1193,1270,62,Male,1270_left.jpg,1270_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1194,1271,59,Female,1271_left.jpg,1271_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1195,1272,59,Female,1272_left.jpg,1272_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1196,1273,62,Male,1273_left.jpg,1273_right.jpg,glaucoma，fundus laser photocoagulation spots,fundus laser photocoagulation spots,0,0,1,0,0,0,0,1
+1198,1276,63,Male,1276_left.jpg,1276_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1199,1277,74,Male,1277_left.jpg,1277_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,1
+1200,1279,84,Female,1279_left.jpg,1279_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,1,0
+1201,1280,50,Female,1280_left.jpg,1280_right.jpg,normal fundus,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1202,1281,61,Male,1281_left.jpg,1281_right.jpg,glaucoma，diabetic retinopathy,glaucoma，diabetic retinopathy,0,1,1,0,0,0,0,0
+1203,1282,68,Female,1282_left.jpg,1282_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1204,1284,42,Male,1284_left.jpg,1284_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1206,1286,62,Male,1286_left.jpg,1286_right.jpg,glaucoma，diabetic retinopathy,glaucoma，diabetic retinopathy,0,1,1,0,0,0,0,0
+1207,1287,74,Male,1287_left.jpg,1287_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1208,1288,63,Male,1288_left.jpg,1288_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1209,1289,71,Female,1289_left.jpg,1289_right.jpg,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,0,0,1,0,0,0,0,0
+1210,1290,54,Male,1290_left.jpg,1290_right.jpg,glaucoma，hypertensive retinopathy,glaucoma，hypertensive retinopathy,0,0,1,0,0,1,0,0
+1211,1291,63,Male,1291_left.jpg,1291_right.jpg,glaucoma，macular epiretinal membrane,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1212,1294,73,Male,1294_left.jpg,1294_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1215,1297,70,Male,1297_left.jpg,1297_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1217,1301,68,Male,1301_left.jpg,1301_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1218,1302,49,Female,1302_left.jpg,1302_right.jpg,glaucoma，diabetic retinopathy,glaucoma，diabetic retinopathy,0,1,1,0,0,0,0,0
+1219,1303,49,Male,1303_left.jpg,1303_right.jpg,hypertensive retinopathy,glaucoma，central retinal vein occlusion,0,0,1,0,0,1,0,0
+1221,1306,72,Male,1306_left.jpg,1306_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1222,1307,64,Female,1307_left.jpg,1307_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1224,1309,49,Male,1309_left.jpg,1309_right.jpg,glaucoma，hypertensive retinopathy,glaucoma，hypertensive retinopathy,0,0,1,0,0,1,0,0
+1227,1314,43,Female,1314_left.jpg,1314_right.jpg,wet age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1228,1318,61,Female,1318_left.jpg,1318_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1229,1319,61,Male,1319_left.jpg,1319_right.jpg,glaucoma,optic disk photographically invisible,0,0,1,0,0,0,0,0
+1230,1325,76,Female,1325_left.jpg,1325_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1231,1327,74,Female,1327_left.jpg,1327_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1232,1330,67,Female,1330_left.jpg,1330_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1233,1334,69,Male,1334_left.jpg,1334_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1234,1344,52,Female,1344_left.jpg,1344_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1235,1345,49,Female,1345_left.jpg,1345_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1237,1351,36,Male,1351_left.jpg,1351_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1238,1352,45,Male,1352_left.jpg,1352_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1239,1353,63,Male,1353_left.jpg,1353_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1240,1362,47,Female,1362_left.jpg,1362_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1242,1365,67,Female,1365_left.jpg,1365_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1244,1369,67,Male,1369_left.jpg,1369_right.jpg,glaucoma,optic disk photographically invisible,0,0,1,0,0,0,0,0
+1245,1371,81,Male,1371_left.jpg,1371_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1247,1374,63,Female,1374_left.jpg,1374_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1248,1377,64,Female,1377_left.jpg,1377_right.jpg,glaucoma，hypertensive retinopathy,hypertensive retinopathy,0,0,1,0,0,1,0,0
+1249,1378,72,Female,1378_left.jpg,1378_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1250,1383,67,Female,1383_left.jpg,1383_right.jpg,macular epiretinal membrane,macular epiretinal membrane，glaucoma,0,0,1,0,0,0,0,1
+1251,1386,67,Female,1386_left.jpg,1386_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1252,1388,62,Male,1388_left.jpg,1388_right.jpg,glaucoma,diabetic retinopathy,0,1,1,0,0,0,0,0
+1253,1389,64,Female,1389_left.jpg,1389_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1254,1392,80,Female,1392_left.jpg,1392_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1255,1393,31,Female,1393_left.jpg,1393_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1256,1396,63,Male,1396_left.jpg,1396_right.jpg,suspected glaucoma,refractive media opacity,0,0,1,0,0,0,0,1
+1257,1397,56,Female,1397_left.jpg,1397_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1258,1401,60,Female,1401_left.jpg,1401_right.jpg,lens dust，normal fundus,lens dust，suspected glaucoma,0,0,1,0,0,0,0,0
+1259,1402,63,Male,1402_left.jpg,1402_right.jpg,suspected glaucoma，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,1,0,0,0,0,0
+1260,1404,50,Female,1404_left.jpg,1404_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1261,1405,67,Male,1405_left.jpg,1405_right.jpg,suspected glaucoma,refractive media opacity,0,0,1,0,0,0,0,0
+1262,1406,78,Female,1406_left.jpg,1406_right.jpg,suspected glaucoma，mild nonproliferative retinopathy,normal fundus,0,1,1,0,0,0,0,0
+1263,1408,69,Male,1408_left.jpg,1408_right.jpg,refractive media opacity,suspected glaucoma，refractive media opacity,0,0,1,0,0,0,0,0
+1264,1409,79,Female,1409_left.jpg,1409_right.jpg,mild nonproliferative retinopathy,moderate non proliferative retinopathy，lens dust，suspected glaucoma,0,1,1,0,0,0,0,0
+1265,1410,69,Female,1410_left.jpg,1410_right.jpg,suspected glaucoma，refractive media opacity,mild nonproliferative retinopathy,0,1,1,0,0,0,0,0
+1266,1411,79,Female,1411_left.jpg,1411_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1267,1412,71,Female,1412_left.jpg,1412_right.jpg,white vessel，suspected glaucoma,suspected glaucoma,0,0,1,0,0,0,0,1
+1268,1413,68,Female,1413_left.jpg,1413_right.jpg,moderate non proliferative retinopathy,suspected glaucoma,0,1,1,0,0,0,0,0
+1269,1414,66,Male,1414_left.jpg,1414_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1271,1416,66,Female,1416_left.jpg,1416_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1272,1417,83,Male,1417_left.jpg,1417_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1273,1418,68,Male,1418_left.jpg,1418_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1274,1419,67,Female,1419_left.jpg,1419_right.jpg,suspected glaucoma，drusen,drusen，normal fundus,0,0,1,0,0,0,0,0
+1275,1420,76,Female,1420_left.jpg,1420_right.jpg,refractive media opacity,suspected glaucoma，refractive media opacity,0,0,1,0,0,0,0,0
+1276,1421,60,Male,1421_left.jpg,1421_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1277,1422,43,Male,1422_left.jpg,1422_right.jpg,tessellated fundus，suspected glaucoma,tessellated fundus,0,0,1,0,0,0,0,0
+1278,1423,75,Male,1423_left.jpg,1423_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1279,1424,74,Male,1424_left.jpg,1424_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1280,1425,70,Female,1425_left.jpg,1425_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1281,1426,68,Female,1426_left.jpg,1426_right.jpg,suspected glaucoma，drusen,vitreous degeneration,0,0,1,0,0,0,0,1
+1282,1427,70,Male,1427_left.jpg,1427_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1283,1428,71,Female,1428_left.jpg,1428_right.jpg,suspected glaucoma，moderate non proliferative retinopathy,normal fundus,0,1,1,0,0,0,0,0
+1284,1429,62,Female,1429_left.jpg,1429_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1285,1431,73,Male,1431_left.jpg,1431_right.jpg,suspected glaucoma,suspected glaucoma,0,0,1,0,0,0,0,0
+1286,1433,57,Male,1433_left.jpg,1433_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1287,1434,54,Male,1434_left.jpg,1434_right.jpg,suspected glaucoma，moderate non proliferative retinopathy,moderate non proliferative retinopathy，suspected glaucoma,0,1,1,0,0,0,0,0
+1289,1436,65,Female,1436_left.jpg,1436_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1290,1439,60,Female,1439_left.jpg,1439_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1291,1440,67,Male,1440_left.jpg,1440_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1292,1441,50,Male,1441_left.jpg,1441_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1293,1442,63,Male,1442_left.jpg,1442_right.jpg,glaucoma，mild nonproliferative retinopathy，macular pigmentation disorder,pigmentation disorder,0,1,1,0,0,0,0,1
+1294,1443,57,Male,1443_left.jpg,1443_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1296,1447,56,Male,1447_left.jpg,1447_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1297,1450,76,Female,1450_left.jpg,1450_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1299,1453,77,Male,1453_left.jpg,1453_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1301,1455,31,Male,1455_left.jpg,1455_right.jpg,lens dust，glaucoma,lens dust，normal fundus,0,0,1,0,0,0,0,0
+1303,1458,75,Female,1458_left.jpg,1458_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1305,1462,71,Male,1462_left.jpg,1462_right.jpg,glaucoma,epiretinal membrane,0,0,1,0,0,0,0,1
+1306,1463,44,Female,1463_left.jpg,1463_right.jpg,lens dust，epiretinal membrane,lens dust，glaucoma,0,0,1,0,0,0,0,1
+1307,1465,54,Male,1465_left.jpg,1465_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1309,1469,51,Female,1469_left.jpg,1469_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1310,1470,42,Male,1470_left.jpg,1470_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1311,1471,45,Male,1471_left.jpg,1471_right.jpg,glaucoma,epiretinal membrane，normal fundus,0,0,1,0,0,0,0,1
+1312,1473,57,Male,1473_left.jpg,1473_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1313,1474,79,Female,1474_left.jpg,1474_right.jpg,glaucoma，moderate non proliferative retinopathy,normal fundus，drusen,0,1,1,0,0,0,0,0
+1314,1475,73,Male,1475_left.jpg,1475_right.jpg,lens dust，glaucoma,normal fundus，lens dust,0,0,1,0,0,0,0,0
+1315,1476,68,Male,1476_left.jpg,1476_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1316,1477,71,Female,1477_left.jpg,1477_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1317,1478,35,Male,1478_left.jpg,1478_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1318,1479,76,Female,1479_left.jpg,1479_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1319,1480,81,Male,1480_left.jpg,1480_right.jpg,refractive media opacity,glaucoma,0,0,1,0,0,0,0,0
+1320,1482,69,Male,1482_left.jpg,1482_right.jpg,moderate non proliferative retinopathy，glaucoma,moderate non proliferative retinopathy,0,1,1,0,0,0,0,0
+1323,1485,69,Female,1485_left.jpg,1485_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1324,1486,61,Male,1486_left.jpg,1486_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1325,1487,56,Female,1487_left.jpg,1487_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1326,1488,51,Female,1488_left.jpg,1488_right.jpg,glaucoma,glaucoma，moderate non proliferative retinopathy,0,1,1,0,0,0,0,0
+1327,1489,76,Female,1489_left.jpg,1489_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1329,1491,60,Female,1491_left.jpg,1491_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1330,1492,54,Male,1492_left.jpg,1492_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1331,1493,49,Male,1493_left.jpg,1493_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1332,1494,38,Male,1494_left.jpg,1494_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1333,1495,64,Female,1495_left.jpg,1495_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1334,1496,31,Female,1496_left.jpg,1496_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，glaucoma,0,1,1,0,0,0,0,0
+1335,1497,54,Male,1497_left.jpg,1497_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1336,1498,52,Male,1498_left.jpg,1498_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1337,1503,49,Male,1503_left.jpg,1503_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1338,1507,62,Male,1507_left.jpg,1507_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1339,1510,56,Male,1510_left.jpg,1510_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1341,1514,33,Male,1514_left.jpg,1514_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1342,1515,78,Male,1515_left.jpg,1515_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1494,1864,65,Male,1864_left.jpg,1864_right.jpg,laser spot，chorioretinal atrophy，glaucoma,laser spot,0,0,1,0,0,0,0,1
+1495,1865,65,Male,1865_left.jpg,1865_right.jpg,laser spot，chorioretinal atrophy，glaucoma,refractive media opacity,0,0,1,0,0,0,0,1
+1507,1881,67,Female,1881_left.jpg,1881_right.jpg,dry age-related macular degeneration，glaucoma,dry age-related macular degeneration，glaucoma,0,0,1,0,1,0,0,0
+1519,1959,54,Male,1959_left.jpg,1959_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1520,1963,57,Female,1963_left.jpg,1963_right.jpg,moderate non proliferative retinopathy,glaucoma,0,1,1,0,0,0,0,0
+1521,1964,54,Female,1964_left.jpg,1964_right.jpg,maculopathy,glaucoma,0,0,1,0,0,0,0,1
+1522,1965,62,Female,1965_left.jpg,1965_right.jpg,glaucoma，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,1,0,0,0,0,1
+1523,1967,54,Male,1967_left.jpg,1967_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,0
+1525,1970,81,Female,1970_left.jpg,1970_right.jpg,glaucoma，lens dust,myelinated nerve fibers，lens dust，drusen,0,0,1,0,0,0,0,1
+1527,1974,65,Male,1974_left.jpg,1974_right.jpg,lens dust，glaucoma,lens dust，moderate non proliferative retinopathy,0,1,1,0,0,0,0,0
+1528,1975,55,Male,1975_left.jpg,1975_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1529,1977,70,Male,1977_left.jpg,1977_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1530,1978,60,Female,1978_left.jpg,1978_right.jpg,lens dust，glaucoma，epiretinal membrane,lens dust，epiretinal membrane，glaucoma，moderate non proliferative retinopathy,0,1,1,0,0,0,0,1
+1531,1984,74,Male,1984_left.jpg,1984_right.jpg,lens dust，glaucoma,lens dust，myelinated nerve fibers,0,0,1,0,0,0,0,1
+1532,1985,53,Female,1985_left.jpg,1985_right.jpg,glaucoma，moderate non proliferative retinopathy,myelinated nerve fibers,0,1,1,0,0,0,0,1
+1533,1986,70,Male,1986_left.jpg,1986_right.jpg,glaucoma,myelinated nerve fibers，drusen,0,0,1,0,0,0,0,1
+1536,1990,56,Female,1990_left.jpg,1990_right.jpg,normal fundus,myelinated nerve fibers，glaucoma,0,0,1,0,0,0,0,1
+1538,1999,60,Male,1999_left.jpg,1999_right.jpg,epiretinal membrane，lens dust,epiretinal membrane，lens dust，glaucoma,0,0,1,0,0,0,0,1
+1540,2006,44,Male,2006_left.jpg,2006_right.jpg,maculopathy,maculopathy，glaucoma,0,0,1,0,0,0,0,1
+1541,2010,75,Male,2010_left.jpg,2010_right.jpg,moderate non proliferative retinopathy，suspected glaucoma,lens dust,0,1,1,0,0,0,0,0
+1542,2020,51,Male,2020_left.jpg,2020_right.jpg,myelinated nerve fibers，suspected glaucoma,normal fundus,0,0,1,0,0,0,0,1
+1543,2030,66,Male,2030_left.jpg,2030_right.jpg,glaucoma,mild nonproliferative retinopathy，glaucoma，vitreous degeneration,0,1,1,0,0,0,0,1
+1544,2032,48,Male,2032_left.jpg,2032_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，suspected glaucoma,0,1,1,0,0,0,0,0
+1546,2041,55,Female,2041_left.jpg,2041_right.jpg,tessellated fundus,glaucoma，wet age-related macular degeneration,0,0,1,0,1,0,1,0
+1550,2063,77,Male,2063_left.jpg,2063_right.jpg,glaucoma，lens dust,glaucoma，moderate non proliferative retinopathy，laser spot,0,1,1,0,0,0,0,1
+1555,2074,24,Male,2074_left.jpg,2074_right.jpg,glaucoma，lens dust,cataract，suspected cataract,0,0,1,1,0,0,0,1

@@ -1,0 +1,945 @@
+,ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+2,2,42,Male,2_left.jpg,2_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+3,3,66,Male,3_left.jpg,3_right.jpg,normal fundus,branch retinal artery occlusion,0,0,0,0,0,0,0,1
+4,4,53,Male,4_left.jpg,4_right.jpg,macular epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+6,6,60,Male,6_left.jpg,6_right.jpg,macular epiretinal membrane,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+7,7,60,Female,7_left.jpg,7_right.jpg,drusen,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+9,9,54,Male,9_left.jpg,9_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+10,10,70,Male,10_left.jpg,10_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+12,12,65,Male,12_left.jpg,12_right.jpg,retinal pigmentation,retinal pigmentation,0,0,0,0,0,0,0,1
+14,14,55,Male,14_left.jpg,14_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+15,15,50,Male,15_left.jpg,15_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+17,17,57,Male,17_left.jpg,17_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+20,20,64,Female,20_left.jpg,20_right.jpg,rhegmatogenous retinal detachment,lens dust,0,0,0,0,0,0,0,1
+21,21,76,Female,21_left.jpg,21_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+22,22,55,Female,22_left.jpg,22_right.jpg,moderate non proliferative retinopathy，laser spot,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+25,25,63,Male,25_left.jpg,25_right.jpg,normal fundus,depigmentation of the retinal pigment epithelium,0,0,0,0,0,0,0,1
+26,26,63,Female,26_left.jpg,26_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，abnormal pigment ,0,1,0,0,0,0,0,1
+27,27,33,Male,27_left.jpg,27_right.jpg,normal fundus,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+29,29,59,Male,29_left.jpg,29_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+30,30,66,Female,30_left.jpg,30_right.jpg,post laser photocoagulation,post laser photocoagulation，glaucoma,0,0,1,0,0,0,0,1
+31,31,62,Male,31_left.jpg,31_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+33,33,60,Female,33_left.jpg,33_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+34,34,61,Male,34_left.jpg,34_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+36,36,55,Male,36_left.jpg,36_right.jpg,lens dust，spotted membranous change,lens dust，normal fundus,0,0,0,0,0,0,0,1
+37,37,41,Male,37_left.jpg,37_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+38,38,75,Male,38_left.jpg,38_right.jpg,macular hole,normal fundus,0,0,0,0,0,0,0,1
+40,40,62,Female,40_left.jpg,40_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+41,41,58,Male,41_left.jpg,41_right.jpg,epiretinal membrane，moderate non proliferative retinopathy，laser spot,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+42,42,89,Male,42_left.jpg,42_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+44,44,55,Female,44_left.jpg,44_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+47,47,60,Female,47_left.jpg,47_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,normal fundus,0,1,0,0,0,0,0,1
+50,50,59,Female,50_left.jpg,50_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+51,51,60,Male,51_left.jpg,51_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+52,52,67,Male,52_left.jpg,52_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+56,56,63,Female,56_left.jpg,56_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+57,57,64,Male,57_left.jpg,57_right.jpg,lens dust，normal fundus,lens dust，drusen，normal fundus,0,0,0,0,0,0,0,1
+58,58,74,Male,58_left.jpg,58_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+59,59,62,Female,59_left.jpg,59_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+60,60,54,Female,60_left.jpg,60_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+61,61,59,Male,61_left.jpg,61_right.jpg,epiretinal membrane，myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+63,63,76,Male,63_left.jpg,63_right.jpg,normal fundus,pigment epithelium proliferation,0,0,0,0,0,0,0,1
+64,64,80,Male,64_left.jpg,64_right.jpg,macular epiretinal membrane，diabetic retinopathy,diabetic retinopathy,0,1,0,0,0,0,0,1
+65,65,56,Male,65_left.jpg,65_right.jpg,epiretinal membrane，lens dust，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+66,66,62,Male,66_left.jpg,66_right.jpg,atrophy,normal fundus,0,0,0,0,0,0,0,1
+68,68,72,Female,68_left.jpg,68_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+69,69,43,Male,69_left.jpg,69_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+70,70,57,Female,70_left.jpg,70_right.jpg,epiretinal membrane，lens dust,lens dust，normal fundus,0,0,0,0,0,0,0,1
+72,72,78,Female,72_left.jpg,72_right.jpg,moderate non proliferative retinopathy,epiretinal membrane,0,1,0,0,0,0,0,1
+73,73,67,Male,73_left.jpg,73_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+74,74,68,Male,74_left.jpg,74_right.jpg,laser spot，white vessel，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+75,75,68,Male,75_left.jpg,75_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+76,76,70,Male,76_left.jpg,76_right.jpg,retinochoroidal coloboma,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+77,77,67,Male,77_left.jpg,77_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,myelinated nerve fibers，normal fundus,0,1,0,0,0,0,0,1
+78,78,46,Male,78_left.jpg,78_right.jpg,chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+79,79,72,Female,79_left.jpg,79_right.jpg,epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+80,80,50,Female,80_left.jpg,80_right.jpg,lens dust,lens dust，myelinated nerve fibers,0,0,0,0,0,0,0,1
+82,82,33,Male,82_left.jpg,82_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+83,83,61,Female,83_left.jpg,83_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+85,85,67,Female,85_left.jpg,85_right.jpg,normal fundus,drusen，atrophic change,0,0,0,0,0,0,0,1
+88,88,71,Female,88_left.jpg,88_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+89,89,60,Female,89_left.jpg,89_right.jpg,retinitis pigmentosa,moderate non proliferative retinopathy，retinitis pigmentosa,0,1,0,0,0,0,0,1
+90,90,53,Female,90_left.jpg,90_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+91,91,28,Male,91_left.jpg,91_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+92,92,53,Male,92_left.jpg,92_right.jpg,normal fundus,retinitis pigmentosa,0,0,0,0,0,0,0,1
+93,93,70,Male,93_left.jpg,93_right.jpg,moderate non proliferative retinopathy，retina fold,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+94,94,55,Male,94_left.jpg,94_right.jpg,normal fundus，lens dust,vitreous degeneration，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+95,95,46,Male,95_left.jpg,95_right.jpg,hypertensive retinopathy,suspected glaucoma,0,0,0,0,0,1,0,1
+96,96,56,Female,96_left.jpg,96_right.jpg,vitreous degeneration,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+97,97,64,Female,97_left.jpg,97_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+98,98,69,Male,98_left.jpg,98_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+99,99,62,Female,99_left.jpg,99_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+100,100,59,Male,100_left.jpg,100_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+101,101,45,Female,101_left.jpg,101_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+104,104,63,Male,104_left.jpg,104_right.jpg,optic disc edema,optic disc edema,0,0,0,0,0,0,0,1
+105,105,61,Female,105_left.jpg,105_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+107,107,68,Female,107_left.jpg,107_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+108,108,54,Female,108_left.jpg,108_right.jpg,normal fundus,retinal pigment epithelium atrophy,0,0,0,0,0,0,0,1
+109,109,67,Male,109_left.jpg,109_right.jpg,depigmentation of the retinal pigment epithelium,depigmentation of the retinal pigment epithelium,0,0,0,0,0,0,0,1
+110,110,69,Male,110_left.jpg,110_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+111,111,64,Male,111_left.jpg,111_right.jpg,severe nonproliferative retinopathy，white vessel,moderate non proliferative retinopathy，white vessel,0,1,0,0,0,0,0,1
+113,113,67,Female,113_left.jpg,113_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,epiretinal membrane,0,1,0,0,0,0,0,1
+114,114,48,Male,114_left.jpg,114_right.jpg,spotted membranous change，spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+115,115,66,Female,115_left.jpg,115_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+117,117,65,Female,117_left.jpg,117_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+118,118,48,Male,118_left.jpg,118_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+119,119,59,Male,119_left.jpg,119_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+121,121,47,Female,121_left.jpg,121_right.jpg,epiretinal membrane，mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+122,122,50,Female,122_left.jpg,122_right.jpg,drusen，lens dust,normal fundus,0,0,0,0,0,0,0,1
+123,123,72,Female,123_left.jpg,123_right.jpg,macular epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+124,124,68,Female,124_left.jpg,124_right.jpg,normal fundus,lens dust，myelinated nerve fibers,0,0,0,0,0,0,0,1
+125,125,71,Male,125_left.jpg,125_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+128,128,67,Male,128_left.jpg,128_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+129,129,62,Female,129_left.jpg,129_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+130,130,66,Female,130_left.jpg,130_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+131,131,64,Female,131_left.jpg,131_right.jpg,retinitis pigmentosa,retinitis pigmentosa,0,0,0,0,0,0,0,1
+132,132,63,Female,132_left.jpg,132_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+133,133,59,Female,133_left.jpg,133_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+134,134,56,Male,134_left.jpg,134_right.jpg,epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+137,137,44,Male,137_left.jpg,137_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+138,138,59,Female,138_left.jpg,138_right.jpg,epiretinal membrane,spotted membranous change,0,0,0,0,0,0,0,1
+140,140,44,Male,140_left.jpg,140_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+141,141,32,Male,141_left.jpg,141_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+142,142,72,Female,142_left.jpg,142_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+143,143,54,Male,143_left.jpg,143_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+146,146,57,Female,146_left.jpg,146_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+147,147,46,Male,147_left.jpg,147_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+148,148,70,Female,148_left.jpg,148_right.jpg,vitreous degeneration,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+149,149,57,Female,149_left.jpg,149_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+150,150,62,Male,150_left.jpg,150_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+151,151,48,Male,151_left.jpg,151_right.jpg,normal fundus,white vessel，proliferative diabetic retinopathy，suspected microvascular anomalies,0,1,0,0,0,0,0,1
+154,154,67,Female,154_left.jpg,154_right.jpg,vitreous degeneration，lens dust,lens dust，normal fundus,0,0,0,0,0,0,0,1
+155,155,40,Male,155_left.jpg,155_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+156,156,82,Female,156_left.jpg,156_right.jpg,refractive media opacity,macular epiretinal membrane,0,0,0,0,0,0,0,1
+159,159,69,Female,159_left.jpg,159_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+161,161,49,Male,161_left.jpg,161_right.jpg,mild nonproliferative retinopathy，myelinated nerve fibers,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+163,163,61,Female,163_left.jpg,163_right.jpg,mild nonproliferative retinopathy,macular epiretinal membrane,0,1,0,0,0,0,0,1
+165,165,48,Male,165_left.jpg,165_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+166,166,65,Female,166_left.jpg,166_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+169,169,64,Female,169_left.jpg,169_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+170,170,59,Male,170_left.jpg,170_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+171,171,57,Female,171_left.jpg,171_right.jpg,laser spot，mild nonproliferative retinopathy,laser spot，epiretinal membrane,0,1,0,0,0,0,0,1
+172,172,68,Male,172_left.jpg,172_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+173,173,87,Male,173_left.jpg,173_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+175,175,56,Female,175_left.jpg,175_right.jpg,drusen,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+177,177,56,Female,177_left.jpg,177_right.jpg,laser spot，vitreous degeneration，mild nonproliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+180,180,45,Female,180_left.jpg,180_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+181,181,64,Male,181_left.jpg,181_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+182,182,64,Male,182_left.jpg,182_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+183,183,55,Male,183_left.jpg,183_right.jpg,lens dust，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+184,184,69,Male,184_left.jpg,184_right.jpg,normal fundus，lens dust,epiretinal membrane over the macula，moderate non proliferative retinopathy，lens dust,0,1,0,0,0,0,0,1
+185,185,63,Female,185_left.jpg,185_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+186,186,45,Male,186_left.jpg,186_right.jpg,moderate non proliferative retinopathy,mild nonproliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+187,187,56,Female,187_left.jpg,187_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+189,189,62,Male,189_left.jpg,189_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+190,190,51,Male,190_left.jpg,190_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+192,192,66,Female,192_left.jpg,192_right.jpg,spotted membranous change,epiretinal membrane,0,0,0,0,0,0,0,1
+193,193,53,Male,193_left.jpg,193_right.jpg,drusen,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+194,194,57,Male,194_left.jpg,194_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+195,195,73,Female,195_left.jpg,195_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+196,196,65,Male,196_left.jpg,196_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+197,197,66,Male,197_left.jpg,197_right.jpg,normal fundus,abnormal pigment ,0,0,0,0,0,0,0,1
+198,199,50,Female,199_left.jpg,199_right.jpg,branch retinal vein occlusion,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+199,200,64,Female,200_left.jpg,200_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+200,201,62,Male,201_left.jpg,201_right.jpg,lens dust，moderate non proliferative retinopathy,macular epiretinal membrane，lens dust,0,1,0,0,0,0,0,1
+201,202,63,Female,202_left.jpg,202_right.jpg,normal fundus,laser spot，moderate non proliferative retinopathy，white vessel,0,1,0,0,0,0,0,1
+202,203,56,Female,203_left.jpg,203_right.jpg,laser spot，severe nonproliferative retinopathy，white vessel,lens dust,0,1,0,0,0,0,0,1
+203,204,54,Male,204_left.jpg,204_right.jpg,epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+204,205,58,Male,205_left.jpg,205_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+205,206,67,Female,206_left.jpg,206_right.jpg,mild nonproliferative retinopathy，epiretinal membrane over the macula,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+206,207,51,Male,207_left.jpg,207_right.jpg,mild nonproliferative retinopathy，macular epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+207,208,68,Female,208_left.jpg,208_right.jpg,central retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+214,215,53,Male,215_left.jpg,215_right.jpg,myelinated nerve fibers，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+215,216,68,Male,216_left.jpg,216_right.jpg,epiretinal membrane，moderate non proliferative retinopathy,epiretinal membrane,0,1,0,0,0,0,0,1
+216,217,69,Female,217_left.jpg,217_right.jpg,epiretinal membrane,moderate non proliferative retinopathy，spotted membranous change,0,1,0,0,0,0,0,1
+217,218,36,Female,218_left.jpg,218_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+218,219,62,Male,219_left.jpg,219_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+219,220,60,Male,220_left.jpg,220_right.jpg,tessellated fundus,tessellated fundus,0,0,0,0,0,0,0,1
+220,221,60,Male,221_left.jpg,221_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,moderate non proliferative retinopathy，spotted membranous change,0,1,0,0,0,0,0,1
+221,222,68,Female,222_left.jpg,222_right.jpg,lens dust,vitreous degeneration，lens dust,0,0,0,0,0,0,0,1
+223,224,54,Female,224_left.jpg,224_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+225,226,50,Male,226_left.jpg,226_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+226,227,58,Female,227_left.jpg,227_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+227,228,54,Male,228_left.jpg,228_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+230,231,60,Female,231_left.jpg,231_right.jpg,moderate non proliferative retinopathy,macular epiretinal membrane,0,1,0,0,0,0,0,1
+231,232,47,Female,232_left.jpg,232_right.jpg,normal fundus，lens dust,epiretinal membrane，lens dust,0,0,0,0,0,0,0,1
+235,236,65,Male,236_left.jpg,236_right.jpg,depigmentation of the retinal pigment epithelium,normal fundus,0,0,0,0,0,0,0,1
+236,237,55,Female,237_left.jpg,237_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+238,239,62,Male,239_left.jpg,239_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+239,240,35,Male,240_left.jpg,240_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+240,241,58,Male,241_left.jpg,241_right.jpg,normal fundus,oval yellow-white atrophy,0,0,0,0,0,0,0,1
+241,242,38,Female,242_left.jpg,242_right.jpg,suspected retinal vascular sheathing,normal fundus,0,0,0,0,0,0,0,1
+243,244,58,Male,244_left.jpg,244_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+244,245,65,Male,245_left.jpg,245_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+245,246,70,Female,246_left.jpg,246_right.jpg,drusen，lens dust,lens dust，drusen,0,0,0,0,0,0,0,1
+247,248,66,Female,248_left.jpg,248_right.jpg,lens dust，macular epiretinal membrane,lens dust,0,0,0,0,0,0,0,1
+249,250,60,Male,250_left.jpg,250_right.jpg,mild nonproliferative retinopathy,macular epiretinal membrane,0,1,0,0,0,0,0,1
+250,251,62,Female,251_left.jpg,251_right.jpg,moderate non proliferative retinopathy,macular epiretinal membrane，lens dust，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+251,252,77,Female,252_left.jpg,252_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+252,253,55,Female,253_left.jpg,253_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+253,254,60,Female,254_left.jpg,254_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+254,255,75,Female,255_left.jpg,255_right.jpg,normal fundus,drusen，normal fundus,0,0,0,0,0,0,0,1
+255,256,62,Male,256_left.jpg,256_right.jpg,maculopathy,maculopathy，macular epiretinal membrane,0,0,0,0,0,0,0,1
+256,257,57,Male,257_left.jpg,257_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+257,258,58,Female,258_left.jpg,258_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+258,259,50,Female,259_left.jpg,259_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+260,261,71,Female,261_left.jpg,261_right.jpg,maculopathy,tessellated fundus,0,0,0,0,0,0,1,1
+261,262,65,Female,262_left.jpg,262_right.jpg,moderate non proliferative retinopathy,myelinated nerve fibers，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+262,263,52,Female,263_left.jpg,263_right.jpg,moderate non proliferative retinopathy，lens dust,macular epiretinal membrane，lens dust,0,1,0,0,0,0,0,1
+266,267,59,Male,267_left.jpg,267_right.jpg,mild nonproliferative retinopathy，vitreous degeneration,lens dust,0,1,0,0,0,0,0,1
+267,268,49,Female,268_left.jpg,268_right.jpg,moderate non proliferative retinopathy，laser spot,severe proliferative diabetic retinopathy，laser spot,0,1,0,0,0,0,0,1
+268,269,73,Female,269_left.jpg,269_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+270,271,46,Male,271_left.jpg,271_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+272,273,57,Male,273_left.jpg,273_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+273,274,53,Male,274_left.jpg,274_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+274,275,61,Female,275_left.jpg,275_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+275,276,66,Male,276_left.jpg,276_right.jpg,normal fundus,macular coloboma,0,0,0,0,0,0,0,1
+276,277,75,Male,277_left.jpg,277_right.jpg,normal fundus,drusen，normal fundus,0,0,0,0,0,0,0,1
+277,278,73,Female,278_left.jpg,278_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+278,279,56,Female,279_left.jpg,279_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+279,280,54,Male,280_left.jpg,280_right.jpg,white vessel，severe nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+280,281,68,Female,281_left.jpg,281_right.jpg,mild nonproliferative retinopathy,mild nonproliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+281,282,55,Female,282_left.jpg,282_right.jpg,moderate non proliferative retinopathy，branch retinal vein occlusion,normal fundus,0,1,0,0,0,0,0,1
+282,283,66,Female,283_left.jpg,283_right.jpg,spotted membranous change,refractive media opacity,0,0,0,0,0,0,0,1
+284,285,62,Male,285_left.jpg,285_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+285,286,73,Female,286_left.jpg,286_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+286,287,60,Female,287_left.jpg,287_right.jpg,epiretinal membrane，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+287,288,57,Female,288_left.jpg,288_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+288,289,57,Male,289_left.jpg,289_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+289,290,55,Female,290_left.jpg,290_right.jpg,normal fundus,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+290,291,67,Male,291_left.jpg,291_right.jpg,normal fundus,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+292,293,31,Male,293_left.jpg,293_right.jpg,retinitis pigmentosa,normal fundus,0,0,0,0,0,0,0,1
+294,295,45,Male,295_left.jpg,295_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+296,297,71,Male,297_left.jpg,297_right.jpg,macular epiretinal membrane，vessel tortuosity,epiretinal membrane,0,0,0,0,0,0,0,1
+297,298,55,Female,298_left.jpg,298_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+298,299,65,Female,299_left.jpg,299_right.jpg,moderate non proliferative retinopathy,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+300,301,55,Male,301_left.jpg,301_right.jpg,normal fundus，drusen,normal fundus，drusen,0,0,0,0,0,0,0,1
+301,302,67,Female,302_left.jpg,302_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+302,303,47,Female,303_left.jpg,303_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+303,304,59,Female,304_left.jpg,304_right.jpg,moderate non proliferative retinopathy,myelinated nerve fibers，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+304,305,55,Male,305_left.jpg,305_right.jpg,hypertensive retinopathy,hypertensive retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+305,306,62,Female,306_left.jpg,306_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+306,307,61,Male,307_left.jpg,307_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+307,308,73,Male,308_left.jpg,308_right.jpg,mild nonproliferative retinopathy,macular epiretinal membrane,0,1,0,0,0,0,0,1
+309,310,33,Male,310_left.jpg,310_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+311,312,74,Male,312_left.jpg,312_right.jpg,epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+312,313,82,Male,313_left.jpg,313_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+313,314,62,Female,314_left.jpg,314_right.jpg,moderate non proliferative retinopathy,normal fundus，drusen,0,1,0,0,0,0,0,1
+315,316,51,Male,316_left.jpg,316_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+317,318,68,Female,318_left.jpg,318_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+319,320,58,Female,320_left.jpg,320_right.jpg,mild nonproliferative retinopathy,pigment epithelium proliferation,0,1,0,0,0,0,0,1
+321,322,40,Female,322_left.jpg,322_right.jpg,lens dust,wedge-shaped change，retina fold,0,0,0,0,0,0,0,1
+322,323,65,Male,323_left.jpg,323_right.jpg,hypertensive retinopathy，optic nerve atrophy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+323,324,55,Male,324_left.jpg,324_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，laser spot，lens dust,0,1,0,0,0,0,0,1
+324,325,39,Male,325_left.jpg,325_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+325,326,55,Male,326_left.jpg,326_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+327,328,65,Female,328_left.jpg,328_right.jpg,moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+328,329,71,Male,329_left.jpg,329_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+330,331,56,Male,331_left.jpg,331_right.jpg,branch retinal artery occlusion,spotted membranous change,0,0,0,0,0,0,0,1
+331,332,57,Female,332_left.jpg,332_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+332,333,45,Male,333_left.jpg,333_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+334,335,50,Female,335_left.jpg,335_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+335,336,66,Male,336_left.jpg,336_right.jpg,wedge white line change,normal fundus,0,0,0,0,0,0,0,1
+336,337,55,Male,337_left.jpg,337_right.jpg,vitreous degeneration，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+337,338,61,Female,338_left.jpg,338_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+338,339,63,Female,339_left.jpg,339_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+339,340,66,Male,340_left.jpg,340_right.jpg,moderate non proliferative retinopathy，drusen,normal fundus,0,1,0,0,0,0,0,1
+340,341,66,Female,341_left.jpg,341_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+341,342,68,Female,342_left.jpg,342_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+342,343,66,Male,343_left.jpg,343_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+343,344,70,Female,344_left.jpg,344_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+345,346,54,Male,346_left.jpg,346_right.jpg,normal fundus,chorioretinal atrophy，epiretinal membrane,0,0,0,0,0,0,0,1
+346,347,67,Female,347_left.jpg,347_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+348,349,72,Male,349_left.jpg,349_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+349,350,55,Female,350_left.jpg,350_right.jpg,epiretinal membrane over the macula,normal fundus,0,0,0,0,0,0,0,1
+350,351,68,Female,351_left.jpg,351_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+351,352,70,Male,352_left.jpg,352_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+352,353,55,Female,353_left.jpg,353_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+355,356,54,Female,356_left.jpg,356_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+356,357,66,Male,357_left.jpg,357_right.jpg,epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+357,358,47,Male,358_left.jpg,358_right.jpg,mild nonproliferative retinopathy，drusen,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+359,360,59,Female,360_left.jpg,360_right.jpg,vitreous degeneration,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+360,361,59,Male,361_left.jpg,361_right.jpg,white vessel，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+361,362,62,Male,362_left.jpg,362_right.jpg,normal fundus,old chorioretinopathy,0,0,0,0,0,0,0,1
+362,363,65,Female,363_left.jpg,363_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+363,364,45,Male,364_left.jpg,364_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+364,365,60,Female,365_left.jpg,365_right.jpg,hypertensive retinopathy，suspected glaucoma,hypertensive retinopathy，suspected glaucoma,0,0,0,0,0,1,0,1
+365,366,74,Male,366_left.jpg,366_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+366,367,53,Male,367_left.jpg,367_right.jpg,epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+367,368,64,Male,368_left.jpg,368_right.jpg,mild nonproliferative retinopathy,myelinated nerve fibers,0,1,0,0,0,0,0,1
+368,369,60,Male,369_left.jpg,369_right.jpg,laser spot，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+369,370,57,Male,370_left.jpg,370_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+370,371,58,Male,371_left.jpg,371_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+371,372,52,Female,372_left.jpg,372_right.jpg,low image quality,low image quality,0,0,0,0,0,0,0,1
+372,373,60,Female,373_left.jpg,373_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+374,375,64,Male,375_left.jpg,375_right.jpg,punctate inner choroidopathy，myopia retinopathy,punctate inner choroidopathy，myopia retinopathy,0,0,0,0,0,0,1,1
+375,376,58,Female,376_left.jpg,376_right.jpg,normal fundus,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+377,378,54,Male,378_left.jpg,378_right.jpg,moderate non proliferative retinopathy,old choroiditis，macular epiretinal membrane,0,1,0,0,0,0,0,1
+379,380,57,Male,380_left.jpg,380_right.jpg,mild nonproliferative retinopathy,myelinated nerve fibers，lens dust,0,1,0,0,0,0,0,1
+380,381,43,Female,381_left.jpg,381_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+382,383,59,Female,383_left.jpg,383_right.jpg,moderate non proliferative retinopathy,mild nonproliferative retinopathy，vitreous degeneration,0,1,0,0,0,0,0,1
+383,384,59,Male,384_left.jpg,384_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+384,385,58,Male,385_left.jpg,385_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+385,386,70,Male,386_left.jpg,386_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+386,387,74,Male,387_left.jpg,387_right.jpg,laser spot，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+387,388,72,Male,388_left.jpg,388_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+388,389,54,Male,389_left.jpg,389_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+390,391,56,Male,391_left.jpg,391_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+391,392,57,Male,392_left.jpg,392_right.jpg,epiretinal membrane over the macula,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+392,393,75,Male,393_left.jpg,393_right.jpg,lens dust，normal fundus,epiretinal membrane，lens dust，normal fundus,0,0,0,0,0,0,0,1
+394,395,58,Male,395_left.jpg,395_right.jpg,drusen，normal fundus,lens dust,0,0,0,0,0,0,0,1
+395,396,55,Male,396_left.jpg,396_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+396,397,44,Male,397_left.jpg,397_right.jpg,drusen,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+397,398,59,Female,398_left.jpg,398_right.jpg,branch retinal vein occlusion,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+398,399,69,Female,399_left.jpg,399_right.jpg,macular epiretinal membrane，severe nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+399,400,64,Male,400_left.jpg,400_right.jpg,normal fundus,drusen，drusen,0,0,0,0,0,0,0,1
+401,402,46,Male,402_left.jpg,402_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+402,403,47,Female,403_left.jpg,403_right.jpg,chorioretinal atrophy with pigmentation proliferation，epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+403,404,63,Male,404_left.jpg,404_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+404,405,61,Male,405_left.jpg,405_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+405,406,61,Female,406_left.jpg,406_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+406,407,52,Male,407_left.jpg,407_right.jpg,drusen,drusen，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+407,408,47,Female,408_left.jpg,408_right.jpg,epiretinal membrane over the macula,normal fundus,0,0,0,0,0,0,0,1
+408,409,55,Male,409_left.jpg,409_right.jpg,lens dust，rhegmatogenous retinal detachment,lens dust,0,0,0,0,0,0,0,1
+409,410,53,Female,410_left.jpg,410_right.jpg,dry age-related macular degeneration，macular epiretinal membrane,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+413,414,64,Female,414_left.jpg,414_right.jpg,laser spot,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+415,416,60,Female,416_left.jpg,416_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+416,417,69,Female,417_left.jpg,417_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+417,418,51,Female,418_left.jpg,418_right.jpg,chorioretinal atrophy with pigmentation proliferation,normal fundus,0,0,0,0,0,0,0,1
+420,421,42,Male,421_left.jpg,421_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+421,422,47,Male,422_left.jpg,422_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+422,423,70,Female,423_left.jpg,423_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+424,425,81,Female,425_left.jpg,425_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+425,426,56,Male,426_left.jpg,426_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+426,427,56,Female,427_left.jpg,427_right.jpg,laser spot，proliferative diabetic retinopathy，white vessel,normal fundus,0,1,0,0,0,0,0,1
+427,428,65,Female,428_left.jpg,428_right.jpg,epiretinal membrane，mild nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+428,429,54,Female,429_left.jpg,429_right.jpg,normal fundus,congenital choroidal coloboma,0,0,0,0,0,0,0,1
+429,430,72,Female,430_left.jpg,430_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+430,431,53,Male,431_left.jpg,431_right.jpg,epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+431,432,42,Male,432_left.jpg,432_right.jpg,normal fundus,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+432,433,45,Female,433_left.jpg,433_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+433,434,70,Female,434_left.jpg,434_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+434,435,68,Male,435_left.jpg,435_right.jpg,moderate non proliferative retinopathy,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+435,436,64,Male,436_left.jpg,436_right.jpg,normal fundus,moderate non proliferative retinopathy，abnormal pigment ,0,1,0,0,0,0,0,1
+436,437,53,Female,437_left.jpg,437_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+437,438,49,Female,438_left.jpg,438_right.jpg,lens dust，macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+438,439,79,Male,439_left.jpg,439_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+439,440,51,Female,440_left.jpg,440_right.jpg,normal fundus,atrophy,0,0,0,0,0,0,0,1
+440,441,48,Male,441_left.jpg,441_right.jpg,laser spot，mild nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+442,443,59,Male,443_left.jpg,443_right.jpg,pigment epithelium proliferation,normal fundus,0,0,0,0,0,0,0,1
+443,444,53,Male,444_left.jpg,444_right.jpg,moderate non proliferative retinopathy，lens dust，drusen,lens dust,0,1,0,0,0,0,0,1
+445,446,54,Female,446_left.jpg,446_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane over the macula,0,1,0,0,0,0,0,1
+448,449,29,Male,449_left.jpg,449_right.jpg,optic disc edema，central retinal vein occlusion,central retinal vein occlusion，optic disc edema,0,0,0,0,0,0,0,1
+449,450,49,Female,450_left.jpg,450_right.jpg,myelinated nerve fibers,myelinated nerve fibers，macular epiretinal membrane,0,0,0,0,0,0,0,1
+450,451,56,Male,451_left.jpg,451_right.jpg,optic disk epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+451,452,54,Female,452_left.jpg,452_right.jpg,macular epiretinal membrane,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+452,453,64,Female,453_left.jpg,453_right.jpg,retinitis pigmentosa,retinitis pigmentosa,0,0,0,0,0,0,0,1
+453,454,60,Male,454_left.jpg,454_right.jpg,vitreous degeneration,vitreous degeneration,0,0,0,0,0,0,0,1
+455,456,71,Male,456_left.jpg,456_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+456,457,64,Female,457_left.jpg,457_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+457,458,72,Male,458_left.jpg,458_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+458,459,59,Female,459_left.jpg,459_right.jpg,normal fundus，lens dust,lens dust，macular epiretinal membrane,0,0,0,0,0,0,0,1
+459,460,80,Male,460_left.jpg,460_right.jpg,refractive media opacity,normal fundus，lens dust,0,0,0,0,0,0,0,1
+460,461,62,Female,461_left.jpg,461_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+461,462,60,Female,462_left.jpg,462_right.jpg,moderate non proliferative retinopathy,mild nonproliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+462,463,45,Male,463_left.jpg,463_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+464,465,58,Female,465_left.jpg,465_right.jpg,drusen，cataract，lens dust,drusen,0,0,0,1,0,0,0,1
+465,466,62,Male,466_left.jpg,466_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+466,467,70,Female,467_left.jpg,467_right.jpg,normal fundus,white vessel，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+467,468,60,Female,468_left.jpg,468_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+469,470,45,Male,470_left.jpg,470_right.jpg,chorioretinal atrophy with pigmentation proliferation，lens dust,normal fundus,0,0,0,0,0,0,0,1
+470,471,43,Female,471_left.jpg,471_right.jpg,macular epiretinal membrane，lens dust,epiretinal membrane,0,0,0,0,0,0,0,1
+471,472,53,Female,472_left.jpg,472_right.jpg,old chorioretinopathy,lens dust，normal fundus,0,0,0,0,0,0,0,1
+472,473,55,Male,473_left.jpg,473_right.jpg,severe nonproliferative retinopathy,vitreous degeneration,0,1,0,0,0,0,0,1
+473,474,55,Female,474_left.jpg,474_right.jpg,lens dust，epiretinal membrane,lens dust，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+475,476,61,Female,476_left.jpg,476_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+477,478,62,Male,478_left.jpg,478_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+478,479,72,Female,479_left.jpg,479_right.jpg,moderate non proliferative retinopathy，macular epiretinal membrane,moderate non proliferative retinopathy，spotted membranous change,0,1,0,0,0,0,0,1
+479,480,67,Female,480_left.jpg,480_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+481,482,73,Female,482_left.jpg,482_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+482,483,49,Male,483_left.jpg,483_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+483,484,54,Male,484_left.jpg,484_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+484,485,80,Male,485_left.jpg,485_right.jpg,spotted membranous change,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+486,487,60,Male,487_left.jpg,487_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+487,488,54,Male,488_left.jpg,488_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+488,489,47,Female,489_left.jpg,489_right.jpg,mild nonproliferative retinopathy，vitreous degeneration,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+489,490,69,Male,490_left.jpg,490_right.jpg,laser spot，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+490,491,63,Male,491_left.jpg,491_right.jpg,vitreous degeneration，mild nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+492,493,68,Female,493_left.jpg,493_right.jpg,moderate non proliferative retinopathy，laser spot,laser spot，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+493,494,49,Female,494_left.jpg,494_right.jpg,optic disk photographically invisible，normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+494,495,62,Female,495_left.jpg,495_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+495,496,66,Female,496_left.jpg,496_right.jpg,normal fundus,vitreous degeneration，normal fundus,0,0,0,0,0,0,0,1
+496,497,53,Male,497_left.jpg,497_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+497,498,43,Male,498_left.jpg,498_right.jpg,moderate non proliferative retinopathy，chorioretinal atrophy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+499,500,53,Female,500_left.jpg,500_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+500,501,61,Male,501_left.jpg,501_right.jpg,epiretinal membrane over the macula，white vessel,normal fundus,0,0,0,0,0,0,0,1
+502,503,37,Male,503_left.jpg,503_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+504,505,56,Male,505_left.jpg,505_right.jpg,lens dust，myelinated nerve fibers,lens dust，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+505,506,73,Male,506_left.jpg,506_right.jpg,laser spot，white vessel,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+506,507,57,Female,507_left.jpg,507_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+507,508,55,Male,508_left.jpg,508_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+508,509,43,Female,509_left.jpg,509_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+509,510,65,Female,510_left.jpg,510_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+510,511,68,Female,511_left.jpg,511_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+511,512,67,Female,512_left.jpg,512_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+514,515,54,Female,515_left.jpg,515_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+515,516,42,Male,516_left.jpg,516_right.jpg,laser spot，moderate non proliferative retinopathy，macular epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+516,517,66,Male,517_left.jpg,517_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+517,518,67,Male,518_left.jpg,518_right.jpg,central retinal vein occlusion,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+518,519,54,Male,519_left.jpg,519_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+519,520,63,Female,520_left.jpg,520_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+520,521,73,Female,521_left.jpg,521_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+521,522,62,Female,522_left.jpg,522_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+522,523,61,Female,523_left.jpg,523_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+523,524,44,Male,524_left.jpg,524_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+525,526,73,Female,526_left.jpg,526_right.jpg,macular epiretinal membrane，post laser photocoagulation,maculopathy,0,0,0,0,0,0,0,1
+526,527,48,Male,527_left.jpg,527_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+527,528,58,Female,528_left.jpg,528_right.jpg,lens dust,macular epiretinal membrane,0,0,0,0,0,0,0,1
+528,529,63,Male,529_left.jpg,529_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+530,531,60,Female,531_left.jpg,531_right.jpg,vitreous degeneration,vitreous degeneration,0,0,0,0,0,0,0,1
+533,534,61,Female,534_left.jpg,534_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+535,536,50,Male,536_left.jpg,536_right.jpg,normal fundus,retinochoroidal coloboma，epiretinal membrane,0,0,0,0,0,0,0,1
+536,537,61,Female,537_left.jpg,537_right.jpg,mild nonproliferative retinopathy，retinal pigmentation,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+537,538,62,Female,538_left.jpg,538_right.jpg,moderate non proliferative retinopathy，drusen,moderate non proliferative retinopathy，drusen,0,1,0,0,0,0,0,1
+538,539,32,Male,539_left.jpg,539_right.jpg,mild nonproliferative retinopathy，lens dust，drusen,lens dust，drusen，normal fundus,0,1,0,0,0,0,0,1
+541,542,64,Male,542_left.jpg,542_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+543,544,57,Male,544_left.jpg,544_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+544,545,62,Female,545_left.jpg,545_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+545,546,30,Male,546_left.jpg,546_right.jpg,branch retinal vein occlusion,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+547,548,59,Male,548_left.jpg,548_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+548,549,70,Female,549_left.jpg,549_right.jpg,moderate non proliferative retinopathy，white vessel,normal fundus,0,1,0,0,0,0,0,1
+551,552,35,Male,552_left.jpg,552_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+553,554,33,Male,554_left.jpg,554_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+554,555,55,Male,555_left.jpg,555_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+556,557,45,Male,557_left.jpg,557_right.jpg,vitreous degeneration,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+557,558,52,Male,558_left.jpg,558_right.jpg,mild nonproliferative retinopathy，mild nonproliferative retinopathy,drusen，lens dust,0,1,0,0,0,0,0,1
+558,559,48,Male,559_left.jpg,559_right.jpg,normal fundus,vitreous degeneration，normal fundus,0,0,0,0,0,0,0,1
+565,566,60,Male,566_left.jpg,566_right.jpg,drusen,moderate non proliferative retinopathy，drusen,0,1,0,0,0,0,0,1
+567,568,55,Female,568_left.jpg,568_right.jpg,laser spot，moderate non proliferative retinopathy,laser spot，macular epiretinal membrane，moderate non proliferative retinopathy，lens dust,0,1,0,0,0,0,0,1
+569,570,65,Female,570_left.jpg,570_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+572,573,53,Female,573_left.jpg,573_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+573,574,52,Male,574_left.jpg,574_right.jpg,mild nonproliferative retinopathy，mild nonproliferative retinopathy,moderate non proliferative retinopathy，central retinal artery occlusion,0,1,0,0,0,0,0,1
+574,575,65,Male,575_left.jpg,575_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+575,576,62,Female,576_left.jpg,576_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+576,577,60,Female,577_left.jpg,577_right.jpg,lens dust，normal fundus,lens dust，macular epiretinal membrane,0,0,0,0,0,0,0,1
+578,579,70,Male,579_left.jpg,579_right.jpg,myelinated nerve fibers,mild nonproliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+579,580,64,Female,580_left.jpg,580_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+580,581,83,Male,581_left.jpg,581_right.jpg,chorioretinal atrophy,chorioretinal atrophy,0,0,0,0,0,0,0,1
+583,584,56,Male,584_left.jpg,584_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+584,585,70,Male,585_left.jpg,585_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+585,586,64,Female,586_left.jpg,586_right.jpg,lens dust，epiretinal membrane,lens dust，spotted membranous change,0,0,0,0,0,0,0,1
+586,587,53,Male,587_left.jpg,587_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+587,588,65,Female,588_left.jpg,588_right.jpg,normal fundus,morning glory syndrome,0,0,0,0,0,0,0,1
+588,589,67,Male,589_left.jpg,589_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+589,590,57,Male,590_left.jpg,590_right.jpg,myelinated nerve fibers，normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+590,591,62,Male,591_left.jpg,591_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+591,592,61,Male,592_left.jpg,592_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+592,593,69,Female,593_left.jpg,593_right.jpg,lens dust,severe nonproliferative retinopathy，white vessel,0,1,0,0,0,0,0,1
+594,595,46,Female,595_left.jpg,595_right.jpg,moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+595,596,52,Male,596_left.jpg,596_right.jpg,epiretinal membrane，drusen,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+598,599,65,Male,599_left.jpg,599_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+599,600,50,Male,600_left.jpg,600_right.jpg,mild nonproliferative retinopathy,retinal pigment epithelial hypertrophy，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+600,601,50,Female,601_left.jpg,601_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+601,602,63,Male,602_left.jpg,602_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+603,604,56,Female,604_left.jpg,604_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+605,606,54,Male,606_left.jpg,606_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+608,609,60,Female,609_left.jpg,609_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+610,611,73,Male,611_left.jpg,611_right.jpg,cataract,epiretinal membrane，normal fundus,0,0,0,1,0,0,0,1
+611,612,54,Male,612_left.jpg,612_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+612,613,54,Male,613_left.jpg,613_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+616,617,62,Male,617_left.jpg,617_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+617,618,63,Male,618_left.jpg,618_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+619,620,55,Male,620_left.jpg,620_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+620,621,59,Female,621_left.jpg,621_right.jpg,mild nonproliferative retinopathy，macular epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+621,622,62,Male,622_left.jpg,622_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+622,623,43,Female,623_left.jpg,623_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+623,624,56,Female,624_left.jpg,624_right.jpg,lens dust，drusen,drusen,0,0,0,0,0,0,0,1
+624,625,72,Female,625_left.jpg,625_right.jpg,cataract，suspected glaucoma,cataract，branch retinal vein occlusion,0,0,0,1,0,0,0,1
+625,626,58,Male,626_left.jpg,626_right.jpg,chorioretinal atrophy,chorioretinal atrophy with pigmentation proliferation，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+626,627,58,Female,627_left.jpg,627_right.jpg,moderate non proliferative retinopathy，lens dust,mild nonproliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+627,628,66,Female,628_left.jpg,628_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+628,629,73,Female,629_left.jpg,629_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+629,630,66,Female,630_left.jpg,630_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+630,631,61,Male,631_left.jpg,631_right.jpg,lens dust，mild nonproliferative retinopathy,lens dust，epiretinal membrane,0,1,0,0,0,0,0,1
+631,632,58,Male,632_left.jpg,632_right.jpg,myelinated nerve fibers,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+632,633,38,Male,633_left.jpg,633_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+633,634,68,Female,634_left.jpg,634_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+634,635,29,Female,635_left.jpg,635_right.jpg,moderate non proliferative retinopathy,refractive media opacity,0,1,0,0,0,0,0,1
+635,636,61,Female,636_left.jpg,636_right.jpg,epiretinal membrane,drusen，epiretinal membrane,0,0,0,0,0,0,0,1
+636,637,50,Female,637_left.jpg,637_right.jpg,lens dust,lens dust，myelinated nerve fibers,0,0,0,0,0,0,0,1
+638,639,56,Female,639_left.jpg,639_right.jpg,mild nonproliferative retinopathy,drusen,0,1,0,0,0,0,0,1
+639,640,57,Male,640_left.jpg,640_right.jpg,myelinated nerve fibers,myelinated nerve fibers,0,0,0,0,0,0,0,1
+640,641,47,Male,641_left.jpg,641_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+641,642,38,Male,642_left.jpg,642_right.jpg,epiretinal membrane，laser spot，severe proliferative diabetic retinopathy,epiretinal membrane，moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+642,643,73,Female,643_left.jpg,643_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+643,644,69,Male,644_left.jpg,644_right.jpg,myelinated nerve fibers,myelinated nerve fibers,0,0,0,0,0,0,0,1
+644,645,43,Male,645_left.jpg,645_right.jpg,macular epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+645,646,64,Female,646_left.jpg,646_right.jpg,myelinated nerve fibers,myelinated nerve fibers,0,0,0,0,0,0,0,1
+646,647,64,Male,647_left.jpg,647_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+647,648,55,Female,648_left.jpg,648_right.jpg,moderate non proliferative retinopathy，optic disc edema,normal fundus,0,1,0,0,0,0,0,1
+648,649,62,Male,649_left.jpg,649_right.jpg,normal fundus,mild nonproliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+649,650,59,Male,650_left.jpg,650_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+651,652,78,Male,652_left.jpg,652_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+652,653,44,Male,653_left.jpg,653_right.jpg,mild nonproliferative retinopathy，macular epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+654,655,50,Female,655_left.jpg,655_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+655,656,72,Male,656_left.jpg,656_right.jpg,retinochoroidal coloboma,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+656,657,46,Male,657_left.jpg,657_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+657,658,64,Male,658_left.jpg,658_right.jpg,normal fundus,optic disc edema,0,0,0,0,0,0,0,1
+658,659,51,Female,659_left.jpg,659_right.jpg,branch retinal vein occlusion,lens dust,0,0,0,0,0,0,0,1
+659,660,69,Female,660_left.jpg,660_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,epiretinal membrane,0,1,0,0,0,0,0,1
+660,661,66,Female,661_left.jpg,661_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+662,664,34,Male,664_left.jpg,664_right.jpg,moderate non proliferative retinopathy，lens dust,normal fundus，drusen,0,1,0,0,0,0,0,1
+663,665,54,Male,665_left.jpg,665_right.jpg,epiretinal membrane over the macula,macular epiretinal membrane,0,0,0,0,0,0,0,1
+664,666,60,Female,666_left.jpg,666_right.jpg,drusen,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+666,668,67,Male,668_left.jpg,668_right.jpg,branch retinal vein occlusion,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+668,670,71,Female,670_left.jpg,670_right.jpg,epiretinal membrane,lens dust,0,0,0,0,0,0,0,1
+669,671,65,Male,671_left.jpg,671_right.jpg,normal fundus,lens dust，drusen,0,0,0,0,0,0,0,1
+670,672,68,Male,672_left.jpg,672_right.jpg,macular epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+671,673,45,Male,673_left.jpg,673_right.jpg,laser spot,retinitis pigmentosa，laser spot,0,0,0,0,0,0,0,1
+672,674,64,Female,674_left.jpg,674_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+673,675,56,Male,675_left.jpg,675_right.jpg,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion,0,0,0,0,0,1,0,1
+674,676,52,Male,676_left.jpg,676_right.jpg,macular epiretinal membrane,moderate non proliferative retinopathy，moderate non proliferative retinopathy，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+675,677,49,Male,677_left.jpg,677_right.jpg,moderate non proliferative retinopathy，vitreous degeneration,normal fundus,0,1,0,0,0,0,0,1
+677,679,51,Male,679_left.jpg,679_right.jpg,lens dust，normal fundus，drusen,normal fundus,0,0,0,0,0,0,0,1
+678,680,69,Female,680_left.jpg,680_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+680,682,65,Female,682_left.jpg,682_right.jpg,mild nonproliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+681,683,46,Female,683_left.jpg,683_right.jpg,normal fundus,morning glory syndrome,0,0,0,0,0,0,0,1
+682,684,60,Female,684_left.jpg,684_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+683,685,59,Male,685_left.jpg,685_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+687,689,28,Female,689_left.jpg,689_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+688,690,62,Male,690_left.jpg,690_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+690,692,45,Female,692_left.jpg,692_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+691,693,60,Female,693_left.jpg,693_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+692,694,64,Female,694_left.jpg,694_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+694,696,43,Male,696_left.jpg,696_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+695,697,56,Female,697_left.jpg,697_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+697,699,68,Male,699_left.jpg,699_right.jpg,epiretinal membrane,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+698,700,60,Male,700_left.jpg,700_right.jpg,moderate non proliferative retinopathy，drusen,drusen,0,1,0,0,0,0,0,1
+699,701,60,Male,701_left.jpg,701_right.jpg,normal fundus,moderate non proliferative retinopathy，retinal pigment epithelial hypertrophy,0,1,0,0,0,0,0,1
+700,702,65,Female,702_left.jpg,702_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+701,703,63,Female,703_left.jpg,703_right.jpg,mild nonproliferative retinopathy,moderate non proliferative retinopathy，laser spot，epiretinal membrane,0,1,0,0,0,0,0,1
+702,704,52,Female,704_left.jpg,704_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+703,705,61,Male,705_left.jpg,705_right.jpg,retinitis pigmentosa,normal fundus,0,0,0,0,0,0,0,1
+704,706,44,Female,706_left.jpg,706_right.jpg,retinitis pigmentosa,retinitis pigmentosa,0,0,0,0,0,0,0,1
+705,707,59,Female,707_left.jpg,707_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+706,708,57,Male,708_left.jpg,708_right.jpg,myelinated nerve fibers,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+708,710,56,Female,710_left.jpg,710_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+709,711,62,Female,711_left.jpg,711_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+711,713,49,Male,713_left.jpg,713_right.jpg,mild nonproliferative retinopathy,mild nonproliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+713,715,66,Female,715_left.jpg,715_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+714,716,49,Female,716_left.jpg,716_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+715,717,79,Male,717_left.jpg,717_right.jpg,epiretinal membrane，drusen,normal fundus,0,0,0,0,0,0,0,1
+716,718,52,Male,718_left.jpg,718_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+718,720,58,Male,720_left.jpg,720_right.jpg,old chorioretinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+719,721,55,Male,721_left.jpg,721_right.jpg,vitreous degeneration,lens dust，drusen,0,0,0,0,0,0,0,1
+722,724,60,Male,724_left.jpg,724_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+723,725,37,Female,725_left.jpg,725_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+725,727,43,Male,727_left.jpg,727_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+726,728,59,Male,728_left.jpg,728_right.jpg,old branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+727,729,52,Male,729_left.jpg,729_right.jpg,asteroid hyalosis,retinal artery macroaneurysm,0,0,0,0,0,0,0,1
+728,730,59,Male,730_left.jpg,730_right.jpg,epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+729,731,58,Male,731_left.jpg,731_right.jpg,epiretinal membrane over the macula,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+730,732,54,Male,732_left.jpg,732_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+731,733,60,Female,733_left.jpg,733_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+732,734,74,Male,734_left.jpg,734_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+733,735,77,Male,735_left.jpg,735_right.jpg,mild nonproliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+734,736,29,Male,736_left.jpg,736_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+736,738,48,Male,738_left.jpg,738_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+737,739,63,Male,739_left.jpg,739_right.jpg,drusen,drusen，vitreous degeneration,0,0,0,0,0,0,0,1
+740,742,45,Female,742_left.jpg,742_right.jpg,vitreous degeneration，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+741,743,56,Female,743_left.jpg,743_right.jpg,moderate non proliferative retinopathy,epiretinal membrane，vessel tortuosity,0,1,0,0,0,0,0,1
+742,744,65,Female,744_left.jpg,744_right.jpg,moderate non proliferative retinopathy,epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+743,745,70,Female,745_left.jpg,745_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy，laser spot,epiretinal membrane over the macula,0,1,0,0,0,0,0,1
+744,746,59,Male,746_left.jpg,746_right.jpg,suspected glaucoma,suspected glaucoma,0,0,0,0,0,0,0,1
+745,747,49,Male,747_left.jpg,747_right.jpg,maculopathy,maculopathy,0,0,0,0,0,0,0,1
+746,748,63,Female,748_left.jpg,748_right.jpg,moderate non proliferative retinopathy,mild nonproliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+747,749,45,Male,749_left.jpg,749_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+749,751,70,Female,751_left.jpg,751_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+750,752,56,Male,752_left.jpg,752_right.jpg,moderate non proliferative retinopathy,vitreous degeneration,0,1,0,0,0,0,0,1
+751,753,55,Female,753_left.jpg,753_right.jpg,epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+752,754,64,Male,754_left.jpg,754_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+754,756,65,Female,756_left.jpg,756_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+755,757,58,Female,757_left.jpg,757_right.jpg,moderate non proliferative retinopathy,glial remnants anterior to the optic disc,0,1,0,0,0,0,0,1
+756,758,51,Female,758_left.jpg,758_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+758,760,56,Female,760_left.jpg,760_right.jpg,pathological myopia,old chorioretinopathy,0,0,0,0,0,0,1,1
+760,762,56,Male,762_left.jpg,762_right.jpg,mild nonproliferative retinopathy,retinitis pigmentosa,0,1,0,0,0,0,0,1
+761,763,59,Male,763_left.jpg,763_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，atrophic change,0,1,0,0,0,0,0,1
+762,764,35,Female,764_left.jpg,764_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+764,766,64,Male,766_left.jpg,766_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+765,767,61,Female,767_left.jpg,767_right.jpg,epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+766,768,65,Female,768_left.jpg,768_right.jpg,spotted membranous change,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+768,770,53,Male,770_left.jpg,770_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+770,772,70,Female,772_left.jpg,772_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+771,773,56,Male,773_left.jpg,773_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+772,774,70,Female,774_left.jpg,774_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+774,776,54,Female,776_left.jpg,776_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+776,778,53,Female,778_left.jpg,778_right.jpg,myelinated nerve fibers，moderate non proliferative retinopathy,vitreous degeneration,0,1,0,0,0,0,0,1
+777,779,59,Male,779_left.jpg,779_right.jpg,mild nonproliferative retinopathy,myelinated nerve fibers,0,1,0,0,0,0,0,1
+778,780,37,Male,780_left.jpg,780_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+779,781,65,Female,781_left.jpg,781_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+780,782,44,Male,782_left.jpg,782_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+783,785,76,Female,785_left.jpg,785_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+785,787,60,Female,787_left.jpg,787_right.jpg,myelinated nerve fibers，moderate non proliferative retinopathy,myelinated nerve fibers，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+787,789,65,Female,789_left.jpg,789_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+788,790,61,Male,790_left.jpg,790_right.jpg,hypertensive retinopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+789,791,36,Male,791_left.jpg,791_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+790,792,59,Female,792_left.jpg,792_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+791,793,66,Female,793_left.jpg,793_right.jpg,lens dust，moderate non proliferative retinopathy,lens dust，vascular loops,0,1,0,0,0,0,0,1
+793,795,56,Female,795_left.jpg,795_right.jpg,laser spot，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+794,796,64,Male,796_left.jpg,796_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+795,797,66,Male,797_left.jpg,797_right.jpg,spotted membranous change,spotted membranous change,0,0,0,0,0,0,0,1
+796,798,44,Male,798_left.jpg,798_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+797,799,54,Male,799_left.jpg,799_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，branch retinal vein occlusion,0,1,0,0,0,0,0,1
+798,800,62,Male,800_left.jpg,800_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+800,802,46,Male,802_left.jpg,802_right.jpg,branch retinal vein occlusion，lens dust,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+801,803,59,Male,803_left.jpg,803_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+802,804,62,Female,804_left.jpg,804_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+803,805,70,Male,805_left.jpg,805_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+804,806,63,Male,806_left.jpg,806_right.jpg,mild nonproliferative retinopathy,chorioretinal atrophy,0,1,0,0,0,0,0,1
+805,807,72,Female,807_left.jpg,807_right.jpg,moderate non proliferative retinopathy，macular epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+808,810,57,Female,810_left.jpg,810_right.jpg,normal fundus,epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+809,811,72,Female,811_left.jpg,811_right.jpg,retinal pigmentation，epiretinal membrane,retinal pigmentation，epiretinal membrane,0,0,0,0,0,0,0,1
+812,814,76,Male,814_left.jpg,814_right.jpg,drusen，branch retinal vein occlusion,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+815,817,53,Male,817_left.jpg,817_right.jpg,mild nonproliferative retinopathy,pigment epithelium proliferation，lens dust,0,1,0,0,0,0,0,1
+817,819,60,Female,819_left.jpg,819_right.jpg,lens dust，moderate non proliferative retinopathy,drusen，moderate non proliferative retinopathy，lens dust,0,1,0,0,0,0,0,1
+820,822,59,Male,822_left.jpg,822_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+821,823,63,Female,823_left.jpg,823_right.jpg,spotted membranous change,spotted membranous change,0,0,0,0,0,0,0,1
+823,825,59,Male,825_left.jpg,825_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，old branch retinal vein occlusion,0,1,0,0,0,0,0,1
+824,826,60,Female,826_left.jpg,826_right.jpg,hypertensive retinopathy，maculopathy,hypertensive retinopathy,0,0,0,0,0,1,0,1
+825,827,49,Female,827_left.jpg,827_right.jpg,normal fundus,atrophic change,0,0,0,0,0,0,0,1
+826,828,63,Female,828_left.jpg,828_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+827,829,68,Male,829_left.jpg,829_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+828,830,50,Male,830_left.jpg,830_right.jpg,macular epiretinal membrane，lens dust,lens dust，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+831,833,51,Male,833_left.jpg,833_right.jpg,lens dust，macular epiretinal membrane,lens dust，normal fundus,0,0,0,0,0,0,0,1
+832,834,47,Female,834_left.jpg,834_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+833,835,58,Female,835_left.jpg,835_right.jpg,normal fundus,normal fundus，drusen,0,0,0,0,0,0,0,1
+834,836,54,Male,836_left.jpg,836_right.jpg,moderate non proliferative retinopathy,white vessel，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+835,837,45,Male,837_left.jpg,837_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+836,838,67,Male,838_left.jpg,838_right.jpg,drusen,vitreous degeneration,0,0,0,0,0,0,0,1
+837,839,62,Male,839_left.jpg,839_right.jpg,mild nonproliferative retinopathy,retinal pigmentation,0,1,0,0,0,0,0,1
+838,840,40,Male,840_left.jpg,840_right.jpg,normal fundus,idiopathic choroidal neovascularization,0,0,0,0,0,0,0,1
+839,841,64,Female,841_left.jpg,841_right.jpg,normal fundus，spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+840,842,60,Female,842_left.jpg,842_right.jpg,mild nonproliferative retinopathy,lens dust，macular epiretinal membrane,0,1,0,0,0,0,0,1
+841,843,46,Male,843_left.jpg,843_right.jpg,chorioretinal atrophy，chorioretinal atrophy,lens dust,0,0,0,0,0,0,0,1
+842,844,43,Female,844_left.jpg,844_right.jpg,lens dust，normal fundus,drusen，normal fundus,0,0,0,0,0,0,0,1
+843,845,64,Female,845_left.jpg,845_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+844,846,54,Male,846_left.jpg,846_right.jpg,myelinated nerve fibers，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+845,847,56,Female,847_left.jpg,847_right.jpg,dry age-related macular degeneration，post laser photocoagulation,wet age-related macular degeneration，diffuse chorioretinal atrophy,0,0,0,0,1,0,0,1
+846,848,56,Male,848_left.jpg,848_right.jpg,myelinated nerve fibers，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+848,850,68,Male,850_left.jpg,850_right.jpg,moderate non proliferative retinopathy，macular epiretinal membrane,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+849,851,71,Male,851_left.jpg,851_right.jpg,retinochoroidal coloboma,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+851,853,30,Male,853_left.jpg,853_right.jpg,maculopathy,maculopathy,0,0,0,0,0,0,0,1
+852,854,74,Male,854_left.jpg,854_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+854,856,46,Male,856_left.jpg,856_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+855,857,63,Male,857_left.jpg,857_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,macular epiretinal membrane，severe nonproliferative retinopathy，old branch retinal vein occlusion,0,1,0,0,0,0,0,1
+856,858,25,Male,858_left.jpg,858_right.jpg,drusen,epiretinal membrane,0,0,0,0,0,0,0,1
+857,859,61,Male,859_left.jpg,859_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+859,861,55,Male,861_left.jpg,861_right.jpg,hypertensive retinopathy,proliferative diabetic retinopathy，hypertensive retinopathy,0,1,0,0,0,0,0,1
+860,862,65,Female,862_left.jpg,862_right.jpg,epiretinal membrane，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+861,863,47,Male,863_left.jpg,863_right.jpg,retinal pigmentation,retinal pigmentation,0,0,0,0,0,0,0,1
+863,865,61,Male,865_left.jpg,865_right.jpg,drusen，mild nonproliferative retinopathy,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+864,866,51,Male,866_left.jpg,866_right.jpg,normal fundus,lens dust，vitreous degeneration,0,0,0,0,0,0,0,1
+865,867,71,Female,867_left.jpg,867_right.jpg,vitreous degeneration,lens dust，normal fundus,0,0,0,0,0,0,0,1
+866,868,55,Female,868_left.jpg,868_right.jpg,myelinated nerve fibers,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+867,869,40,Male,869_left.jpg,869_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+869,871,70,Female,871_left.jpg,871_right.jpg,moderate non proliferative retinopathy,refractive media opacity,0,1,0,0,0,0,0,1
+870,872,64,Female,872_left.jpg,872_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+871,873,66,Male,873_left.jpg,873_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+873,875,63,Female,875_left.jpg,875_right.jpg,epiretinal membrane，normal fundus，lens dust,normal fundus,0,0,0,0,0,0,0,1
+874,876,71,Male,876_left.jpg,876_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+875,877,75,Female,877_left.jpg,877_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+876,878,60,Male,878_left.jpg,878_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+877,879,54,Female,879_left.jpg,879_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+878,880,70,Male,880_left.jpg,880_right.jpg,drusen,drusen，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+879,881,56,Female,881_left.jpg,881_right.jpg,mild nonproliferative retinopathy,myelinated nerve fibers,0,1,0,0,0,0,0,1
+880,882,68,Male,882_left.jpg,882_right.jpg,lens dust,atrophic change,0,0,0,0,0,0,0,1
+881,883,63,Male,883_left.jpg,883_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+882,884,60,Female,884_left.jpg,884_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+885,887,63,Female,887_left.jpg,887_right.jpg,macular epiretinal membrane，laser spot,laser spot,0,0,0,0,0,0,0,1
+888,890,48,Female,890_left.jpg,890_right.jpg,mild nonproliferative retinopathy,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+889,891,59,Female,891_left.jpg,891_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+890,892,68,Male,892_left.jpg,892_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+891,893,34,Male,893_left.jpg,893_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+892,894,54,Male,894_left.jpg,894_right.jpg,normal fundus,normal fundus，drusen,0,0,0,0,0,0,0,1
+893,895,63,Female,895_left.jpg,895_right.jpg,epiretinal membrane，epiretinal membrane，lens dust,lens dust，macular epiretinal membrane,0,0,0,0,0,0,0,1
+894,896,57,Female,896_left.jpg,896_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+895,897,65,Male,897_left.jpg,897_right.jpg,vitreous degeneration，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+896,898,77,Female,898_left.jpg,898_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+897,899,54,Female,899_left.jpg,899_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+898,900,64,Male,900_left.jpg,900_right.jpg,normal fundus,optic discitis,0,0,0,0,0,0,0,1
+899,901,57,Male,901_left.jpg,901_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+900,902,70,Female,902_left.jpg,902_right.jpg,macular epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+901,903,72,Male,903_left.jpg,903_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+902,904,66,Female,904_left.jpg,904_right.jpg,mild nonproliferative retinopathy，mild nonproliferative retinopathy,vitreous degeneration,0,1,0,0,0,0,0,1
+903,905,60,Male,905_left.jpg,905_right.jpg,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,1
+904,906,59,Female,906_left.jpg,906_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+905,907,74,Male,907_left.jpg,907_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+907,909,48,Male,909_left.jpg,909_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+909,911,60,Female,911_left.jpg,911_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+910,912,74,Male,912_left.jpg,912_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+911,913,61,Female,913_left.jpg,913_right.jpg,moderate non proliferative retinopathy，vitreous degeneration,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+912,914,61,Female,914_left.jpg,914_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers，laser spot,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+913,915,50,Male,915_left.jpg,915_right.jpg,normal fundus,branch retinal artery occlusion,0,0,0,0,0,0,0,1
+915,917,60,Male,917_left.jpg,917_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+916,918,60,Female,918_left.jpg,918_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+917,919,45,Male,919_left.jpg,919_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+918,920,26,Female,920_left.jpg,920_right.jpg,moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+919,921,57,Male,921_left.jpg,921_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+920,922,45,Female,922_left.jpg,922_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+921,923,49,Male,923_left.jpg,923_right.jpg,moderate non proliferative retinopathy，atrophic change,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+922,924,72,Female,924_left.jpg,924_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+923,925,43,Female,925_left.jpg,925_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+924,926,44,Female,926_left.jpg,926_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，optic disc edema,0,1,0,0,0,0,0,1
+926,928,45,Female,928_left.jpg,928_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+927,929,55,Male,929_left.jpg,929_right.jpg,mild nonproliferative retinopathy,drusen,0,1,0,0,0,0,0,1
+928,930,75,Female,930_left.jpg,930_right.jpg,refractive media opacity,normal fundus，lens dust,0,0,0,0,0,0,0,1
+929,931,65,Male,931_left.jpg,931_right.jpg,suspected glaucoma，moderate non proliferative retinopathy,suspected glaucoma，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+930,932,63,Female,932_left.jpg,932_right.jpg,normal fundus，lens dust,macular epiretinal membrane，lens dust,0,0,0,0,0,0,0,1
+931,933,69,Male,933_left.jpg,933_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+933,935,66,Female,935_left.jpg,935_right.jpg,chorioretinal atrophy,spotted membranous change,0,0,0,0,0,0,0,1
+934,936,52,Male,936_left.jpg,936_right.jpg,laser spot，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+937,940,48,Female,940_left.jpg,940_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+938,941,59,Male,941_left.jpg,941_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+939,942,46,Female,942_left.jpg,942_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+940,943,64,Male,943_left.jpg,943_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+941,944,72,Male,944_left.jpg,944_right.jpg,moderate non proliferative retinopathy,spotted membranous change,0,1,0,0,0,0,0,1
+942,945,44,Male,945_left.jpg,945_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+943,946,60,Male,946_left.jpg,946_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+945,948,65,Male,948_left.jpg,948_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+947,950,48,Female,950_left.jpg,950_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+948,951,41,Male,951_left.jpg,951_right.jpg,normal fundus,normal fundus,0,0,0,0,0,0,0,1
+949,952,76,Female,952_left.jpg,952_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+950,953,46,Male,953_left.jpg,953_right.jpg,moderate non proliferative retinopathy,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+951,954,61,Female,954_left.jpg,954_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+953,956,66,Female,956_left.jpg,956_right.jpg,moderate non proliferative retinopathy,retinal pigmentation,0,1,0,0,0,0,0,1
+955,958,52,Male,958_left.jpg,958_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+956,959,63,Female,959_left.jpg,959_right.jpg,drusen，mild nonproliferative retinopathy,drusen,0,1,0,0,0,0,0,1
+959,962,68,Female,962_left.jpg,962_right.jpg,drusen，mild nonproliferative retinopathy,drusen,0,1,0,0,0,0,0,1
+960,963,63,Female,963_left.jpg,963_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+961,964,71,Male,964_left.jpg,964_right.jpg,moderate non proliferative retinopathy,moderate non proliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,1
+962,965,45,Male,965_left.jpg,965_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+963,966,59,Female,966_left.jpg,966_right.jpg,epiretinal membrane，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+965,969,42,Male,969_left.jpg,969_right.jpg,macular epiretinal membrane,lens dust,0,0,0,0,0,0,0,1
+968,972,53,Male,972_left.jpg,972_right.jpg,moderate non proliferative retinopathy,mild nonproliferative retinopathy，vitreous degeneration,0,1,0,0,0,0,0,1
+969,973,70,Male,973_left.jpg,973_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+970,974,64,Male,974_left.jpg,974_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+971,975,66,Female,975_left.jpg,975_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+972,976,78,Male,976_left.jpg,976_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+975,979,56,Male,979_left.jpg,979_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+977,981,80,Male,981_left.jpg,981_right.jpg,moderate non proliferative retinopathy,epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+978,982,65,Male,982_left.jpg,982_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+980,984,69,Female,984_left.jpg,984_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+981,985,56,Male,985_left.jpg,985_right.jpg,laser spot，macular epiretinal membrane,laser spot,0,0,0,0,0,0,0,1
+982,986,68,Female,986_left.jpg,986_right.jpg,epiretinal membrane,epiretinal membrane,0,0,0,0,0,0,0,1
+983,987,64,Female,987_left.jpg,987_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+984,989,54,Female,989_left.jpg,989_right.jpg,lens dust，normal fundus,lens dust，epiretinal membrane,0,0,0,0,0,0,0,1
+985,990,41,Female,990_left.jpg,990_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+986,991,56,Male,991_left.jpg,991_right.jpg,lens dust，mild nonproliferative retinopathy，myelinated nerve fibers,mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+988,993,69,Male,993_left.jpg,993_right.jpg,laser spot，moderate non proliferative retinopathy,macular epiretinal membrane，laser spot，lens dust，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+989,994,65,Female,994_left.jpg,994_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+990,996,56,Male,996_left.jpg,996_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+994,1005,78,Female,1005_left.jpg,1005_right.jpg,macular hole,normal fundus,0,0,0,0,0,0,0,1
+995,1006,64,Male,1006_left.jpg,1006_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+996,1008,65,Male,1008_left.jpg,1008_right.jpg,normal fundus,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+997,1010,63,Female,1010_left.jpg,1010_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+998,1011,36,Male,1011_left.jpg,1011_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+999,1012,56,Female,1012_left.jpg,1012_right.jpg,drusen,pathological myopia,0,0,0,0,0,0,1,1
+1000,1013,66,Female,1013_left.jpg,1013_right.jpg,normal fundus,macular epiretinal membrane，drusen,0,0,0,0,0,0,0,1
+1001,1014,70,Female,1014_left.jpg,1014_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+1002,1015,53,Female,1015_left.jpg,1015_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+1003,1016,62,Female,1016_left.jpg,1016_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1004,1017,60,Male,1017_left.jpg,1017_right.jpg,lens dust，normal fundus,lens dust，epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+1005,1018,69,Male,1018_left.jpg,1018_right.jpg,laser spot，branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1006,1019,80,Female,1019_left.jpg,1019_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+1007,1020,67,Male,1020_left.jpg,1020_right.jpg,myopia retinopathy,glaucoma,0,0,1,0,0,0,1,1
+1008,1021,64,Female,1021_left.jpg,1021_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1010,1023,67,Female,1023_left.jpg,1023_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+1012,1028,50,Female,1028_left.jpg,1028_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1013,1031,53,Male,1031_left.jpg,1031_right.jpg,drusen,hypertensive retinopathy,0,0,0,0,0,1,0,1
+1014,1032,67,Female,1032_left.jpg,1032_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1015,1033,54,Male,1033_left.jpg,1033_right.jpg,lens dust,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1017,1035,53,Male,1035_left.jpg,1035_right.jpg,normal fundus,mild nonproliferative retinopathy,0,0,0,0,0,0,0,1
+1018,1036,62,Male,1036_left.jpg,1036_right.jpg,lens dust,pigmentation disorder,0,0,0,0,0,0,0,1
+1019,1038,54,Female,1038_left.jpg,1038_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1020,1039,82,Female,1039_left.jpg,1039_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1021,1040,65,Male,1040_left.jpg,1040_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1022,1041,71,Female,1041_left.jpg,1041_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1027,1050,60,Female,1050_left.jpg,1050_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+1028,1052,71,Female,1052_left.jpg,1052_right.jpg,refractive media opacity,refractive media opacity,0,0,0,0,0,0,0,1
+1029,1053,33,Female,1053_left.jpg,1053_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1031,1056,62,Male,1056_left.jpg,1056_right.jpg,hypertensive retinopathy,hypertensive retinopathy，macular epiretinal membrane,0,0,0,0,0,1,0,1
+1032,1058,28,Female,1058_left.jpg,1058_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1033,1059,43,Male,1059_left.jpg,1059_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1035,1061,49,Female,1061_left.jpg,1061_right.jpg,white vessel，arteriosclerosis,normal fundus,0,0,0,0,0,0,0,1
+1039,1066,62,Male,1066_left.jpg,1066_right.jpg,silicone oil eye,normal fundus,0,0,0,0,0,0,0,1
+1043,1074,67,Female,1074_left.jpg,1074_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1045,1077,79,Female,1077_left.jpg,1077_right.jpg,lens dust，normal fundus,drusen,0,0,0,0,0,0,0,1
+1046,1079,64,Female,1079_left.jpg,1079_right.jpg,epiretinal membrane,epiretinal membrane，normal fundus,0,0,0,0,0,0,0,1
+1047,1080,60,Female,1080_left.jpg,1080_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1053,1086,62,Male,1086_left.jpg,1086_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1054,1087,37,Male,1087_left.jpg,1087_right.jpg,central retinal vein occlusion，optic disc edema,central retinal vein occlusion，optic disc edema,0,0,0,0,0,0,0,1
+1055,1089,56,Female,1089_left.jpg,1089_right.jpg,normal fundus,retinal vascular sheathing,0,0,0,0,0,0,0,1
+1056,1090,55,Male,1090_left.jpg,1090_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1058,1092,68,Female,1092_left.jpg,1092_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1059,1093,53,Male,1093_left.jpg,1093_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1061,1095,56,Male,1095_left.jpg,1095_right.jpg,branch retinal vein occlusion,lens dust,0,0,0,0,0,0,0,1
+1062,1096,59,Female,1096_left.jpg,1096_right.jpg,normal fundus,lens dust，drusen,0,0,0,0,0,0,0,1
+1063,1097,59,Male,1097_left.jpg,1097_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1065,1099,57,Female,1099_left.jpg,1099_right.jpg,macular epiretinal membrane,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1071,1109,60,Male,1109_left.jpg,1109_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1074,1114,67,Male,1114_left.jpg,1114_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+1076,1116,23,Male,1116_left.jpg,1116_right.jpg,maculopathy,idiopathic choroidal neovascularization,0,0,0,0,0,0,0,1
+1077,1117,65,Male,1117_left.jpg,1117_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1078,1118,47,Female,1118_left.jpg,1118_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1079,1119,65,Male,1119_left.jpg,1119_right.jpg,epiretinal membrane，chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+1080,1120,55,Male,1120_left.jpg,1120_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1081,1121,47,Female,1121_left.jpg,1121_right.jpg,lens dust，drusen,normal fundus,0,0,0,0,0,0,0,1
+1082,1122,65,Female,1122_left.jpg,1122_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1083,1123,51,Female,1123_left.jpg,1123_right.jpg,normal fundus,atrophic change,0,0,0,0,0,0,0,1
+1084,1124,63,Male,1124_left.jpg,1124_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1087,1127,56,Male,1127_left.jpg,1127_right.jpg,lens dust，drusen，normal fundus,drusen，normal fundus,0,0,0,0,0,0,0,1
+1088,1129,69,Female,1129_left.jpg,1129_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1089,1130,60,Female,1130_left.jpg,1130_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+1090,1131,56,Male,1131_left.jpg,1131_right.jpg,lens dust，epiretinal membrane,lens dust,0,0,0,0,0,0,0,1
+1091,1132,56,Male,1132_left.jpg,1132_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+1092,1133,56,Male,1133_left.jpg,1133_right.jpg,myelinated nerve fibers，normal fundus,normal fundus,0,0,0,0,0,0,0,1
+1093,1134,74,Male,1134_left.jpg,1134_right.jpg,lens dust，spotted membranous change,lens dust，normal fundus,0,0,0,0,0,0,0,1
+1095,1137,60,Female,1137_left.jpg,1137_right.jpg,normal fundus，lens dust,lens dust，chorioretinal atrophy,0,0,0,0,0,0,0,1
+1097,1140,43,Female,1140_left.jpg,1140_right.jpg,lens dust，normal fundus,lens dust，epiretinal membrane,0,0,0,0,0,0,0,1
+1098,1142,60,Female,1142_left.jpg,1142_right.jpg,optic disc edema,normal fundus,0,0,0,0,0,0,0,1
+1099,1143,45,Male,1143_left.jpg,1143_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1101,1145,40,Female,1145_left.jpg,1145_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+1102,1146,59,Female,1146_left.jpg,1146_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+1104,1148,57,Male,1148_left.jpg,1148_right.jpg,laser spot,macular epiretinal membrane，atrophic change,0,0,0,0,0,0,0,1
+1106,1151,60,Male,1151_left.jpg,1151_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1110,1156,65,Male,1156_left.jpg,1156_right.jpg,drusen,retinal pigmentation,0,0,0,0,0,0,0,1
+1112,1160,69,Female,1160_left.jpg,1160_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1113,1162,67,Male,1162_left.jpg,1162_right.jpg,normal fundus,retina fold,0,0,0,0,0,0,0,1
+1114,1163,66,Male,1163_left.jpg,1163_right.jpg,central retinal vein occlusion,central retinal vein occlusion,0,0,0,0,0,0,0,1
+1116,1165,44,Male,1165_left.jpg,1165_right.jpg,normal fundus,myelinated nerve fibers，normal fundus,0,0,0,0,0,0,0,1
+1117,1166,59,Female,1166_left.jpg,1166_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1119,1168,67,Female,1168_left.jpg,1168_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,0,0,0,1
+1120,1169,26,Female,1169_left.jpg,1169_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1121,1170,56,Male,1170_left.jpg,1170_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+1122,1171,74,Female,1171_left.jpg,1171_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1123,1172,65,Female,1172_left.jpg,1172_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1124,1173,59,Female,1173_left.jpg,1173_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1125,1174,71,Female,1174_left.jpg,1174_right.jpg,epiretinal membrane,refractive media opacity,0,0,0,0,0,0,0,1
+1126,1176,65,Female,1176_left.jpg,1176_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1127,1177,63,Female,1177_left.jpg,1177_right.jpg,depigmentation of the retinal pigment epithelium,normal fundus,0,0,0,0,0,0,0,1
+1128,1186,54,Female,1186_left.jpg,1186_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1130,1195,62,Female,1195_left.jpg,1195_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1133,1198,44,Female,1198_left.jpg,1198_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1134,1200,55,Female,1200_left.jpg,1200_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1138,1207,61,Female,1207_left.jpg,1207_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1139,1208,68,Female,1208_left.jpg,1208_right.jpg,white vessel，laser spot,suspected retinitis pigmentosa,0,0,0,0,0,0,0,1
+1142,1211,80,Male,1211_left.jpg,1211_right.jpg,glaucoma，optic nerve atrophy,glaucoma，optic nerve atrophy,0,0,1,0,0,0,0,1
+1145,1214,70,Female,1214_left.jpg,1214_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1150,1219,72,Female,1219_left.jpg,1219_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,1
+1152,1221,70,Male,1221_left.jpg,1221_right.jpg,glaucoma，old central retinal vein occlusion,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1163,1236,67,Female,1236_left.jpg,1236_right.jpg,optic nerve atrophy,optic nerve atrophy,0,0,0,0,0,0,0,1
+1167,1240,69,Female,1240_left.jpg,1240_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1169,1242,1,Female,1242_left.jpg,1242_right.jpg,chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+1171,1245,65,Female,1245_left.jpg,1245_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1177,1253,60,Female,1253_left.jpg,1253_right.jpg,normal fundus,normal fundus,0,0,0,0,0,0,0,1
+1179,1255,33,Male,1255_left.jpg,1255_right.jpg,glaucoma,glaucoma，diffuse retinal atrophy,0,0,1,0,0,0,0,1
+1187,1264,54,Male,1264_left.jpg,1264_right.jpg,refractive media opacity,glaucoma,0,0,1,0,0,0,0,1
+1196,1273,62,Male,1273_left.jpg,1273_right.jpg,glaucoma，fundus laser photocoagulation spots,fundus laser photocoagulation spots,0,0,1,0,0,0,0,1
+1197,1274,48,Female,1274_left.jpg,1274_right.jpg,normal fundus,suspected abnormal color of  optic disc,0,0,0,0,0,0,0,1
+1199,1277,74,Male,1277_left.jpg,1277_right.jpg,glaucoma,glaucoma,0,0,1,0,0,0,0,1
+1211,1291,63,Male,1291_left.jpg,1291_right.jpg,glaucoma，macular epiretinal membrane,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1214,1296,60,Female,1296_left.jpg,1296_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+1215,1297,70,Male,1297_left.jpg,1297_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1216,1299,49,Female,1299_left.jpg,1299_right.jpg,normal fundus,old branch retinal vein occlusion,0,0,0,0,0,0,0,1
+1220,1304,56,Female,1304_left.jpg,1304_right.jpg,drusen,drusen,0,0,0,0,0,0,0,1
+1223,1308,45,Female,1308_left.jpg,1308_right.jpg,epiretinal membrane,epiretinal membrane，white vessel,0,0,0,0,0,0,0,1
+1225,1310,61,Female,1310_left.jpg,1310_right.jpg,lens dust,drusen，lens dust,0,0,0,0,0,0,0,1
+1226,1311,67,Female,1311_left.jpg,1311_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+1231,1327,74,Female,1327_left.jpg,1327_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1246,1373,68,Male,1373_left.jpg,1373_right.jpg,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion，vitreous opacity,0,0,0,0,0,1,0,1
+1250,1383,67,Female,1383_left.jpg,1383_right.jpg,macular epiretinal membrane,macular epiretinal membrane，glaucoma,0,0,1,0,0,0,0,1
+1256,1396,63,Male,1396_left.jpg,1396_right.jpg,suspected glaucoma,refractive media opacity,0,0,1,0,0,0,0,1
+1266,1411,79,Female,1411_left.jpg,1411_right.jpg,glaucoma,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,1
+1267,1412,71,Female,1412_left.jpg,1412_right.jpg,white vessel，suspected glaucoma,suspected glaucoma,0,0,1,0,0,0,0,1
+1270,1415,81,Female,1415_left.jpg,1415_right.jpg,cataract,cataract，suspected glaucoma,0,0,0,1,0,0,0,1
+1281,1426,68,Female,1426_left.jpg,1426_right.jpg,suspected glaucoma，drusen,vitreous degeneration,0,0,1,0,0,0,0,1
+1293,1442,63,Male,1442_left.jpg,1442_right.jpg,glaucoma，mild nonproliferative retinopathy，macular pigmentation disorder,pigmentation disorder,0,1,1,0,0,0,0,1
+1300,1454,79,Male,1454_left.jpg,1454_right.jpg,epiretinal membrane,cataract,0,0,0,1,0,0,0,1
+1305,1462,71,Male,1462_left.jpg,1462_right.jpg,glaucoma,epiretinal membrane,0,0,1,0,0,0,0,1
+1306,1463,44,Female,1463_left.jpg,1463_right.jpg,lens dust，epiretinal membrane,lens dust，glaucoma,0,0,1,0,0,0,0,1
+1311,1471,45,Male,1471_left.jpg,1471_right.jpg,glaucoma,epiretinal membrane，normal fundus,0,0,1,0,0,0,0,1
+1379,1559,56,Female,1559_left.jpg,1559_right.jpg,pathological myopia,pathological myopia，suspected macular epimacular membrane,0,0,0,0,0,0,1,1
+1387,1567,47,Male,1567_left.jpg,1567_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1391,1571,65,Male,1571_left.jpg,1571_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1393,1573,69,Female,1573_left.jpg,1573_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1394,1574,73,Female,1574_left.jpg,1574_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1399,1581,58,Female,1581_left.jpg,1581_right.jpg,tessellated fundus,pathological myopia,0,0,0,0,0,0,1,1
+1402,1585,56,Female,1585_left.jpg,1585_right.jpg,tessellated fundus，chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1407,1591,62,Female,1591_left.jpg,1591_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1410,1595,1,Female,1595_left.jpg,1595_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1411,1597,64,Female,1597_left.jpg,1597_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1412,1598,60,Female,1598_left.jpg,1598_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1421,1609,58,Female,1609_left.jpg,1609_right.jpg,pathological myopia,drusen,0,0,0,0,0,0,1,1
+1426,1614,56,Female,1614_left.jpg,1614_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1436,1626,74,Male,1626_left.jpg,1626_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1437,1628,56,Male,1628_left.jpg,1628_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1440,1638,59,Male,1638_left.jpg,1638_right.jpg,pathological myopia,retinal detachment，tessellated fundus,0,0,0,0,0,0,1,1
+1441,1640,45,Male,1640_left.jpg,1640_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1442,1642,63,Male,1642_left.jpg,1642_right.jpg,tessellated fundus，peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1443,1643,69,Male,1643_left.jpg,1643_right.jpg,pathological myopia,tessellated fundus，peripapillary atrophy,0,0,0,0,0,0,1,1
+1444,1644,63,Female,1644_left.jpg,1644_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1446,1652,32,Female,1652_left.jpg,1652_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1448,1659,58,Female,1659_left.jpg,1659_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1450,1662,68,Male,1662_left.jpg,1662_right.jpg,pathological myopia,chorioretinal atrophy,0,0,0,0,0,0,1,1
+1452,1664,45,Female,1664_left.jpg,1664_right.jpg,chorioretinal atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1454,1673,73,Male,1673_left.jpg,1673_right.jpg,epiretinal membrane,pathological myopia,0,0,0,0,0,0,1,1
+1455,1674,74,Female,1674_left.jpg,1674_right.jpg,moderate non proliferative retinopathy，pathological myopia,refractive media opacity,0,1,0,0,0,0,1,1
+1456,1677,87,Male,1677_left.jpg,1677_right.jpg,tessellated fundus,pathological myopia,0,0,0,0,0,0,1,1
+1457,1681,70,Male,1681_left.jpg,1681_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1458,1683,72,Female,1683_left.jpg,1683_right.jpg,peripapillary atrophy,pathological myopia,0,0,0,0,0,0,1,1
+1459,1686,51,Male,1686_left.jpg,1686_right.jpg,pathological myopia,pathological myopia,0,0,0,0,0,0,1,1
+1460,1694,52,Male,1694_left.jpg,1694_right.jpg,refractive media opacity,pathological myopia,0,0,0,0,0,0,1,1
+1461,1706,63,Female,1706_left.jpg,1706_right.jpg,refractive media opacity,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1462,1710,62,Male,1710_left.jpg,1710_right.jpg,pathological myopia,refractive media opacity,0,0,0,0,0,0,1,1
+1463,1716,66,Male,1716_left.jpg,1716_right.jpg,pathological myopia,peripapillary atrophy,0,0,0,0,0,0,1,1
+1464,1718,65,Male,1718_left.jpg,1718_right.jpg,moderate non proliferative retinopathy，laser spot,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1465,1731,72,Female,1731_left.jpg,1731_right.jpg,pathological myopia,moderate non proliferative retinopathy，tessellated fundus,0,1,0,0,0,0,1,1
+1494,1864,65,Male,1864_left.jpg,1864_right.jpg,laser spot，chorioretinal atrophy，glaucoma,laser spot,0,0,1,0,0,0,0,1
+1495,1865,65,Male,1865_left.jpg,1865_right.jpg,laser spot，chorioretinal atrophy，glaucoma,refractive media opacity,0,0,1,0,0,0,0,1
+1516,1919,50,Male,1919_left.jpg,1919_right.jpg,dry age-related macular degeneration,refractive media opacity,0,0,0,0,1,0,0,1
+1517,1927,61,Female,1927_left.jpg,1927_right.jpg,optic nerve atrophy,optic nerve atrophy，dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1521,1964,54,Female,1964_left.jpg,1964_right.jpg,maculopathy,glaucoma,0,0,1,0,0,0,0,1
+1522,1965,62,Female,1965_left.jpg,1965_right.jpg,glaucoma，moderate non proliferative retinopathy,laser spot，moderate non proliferative retinopathy,0,1,1,0,0,0,0,1
+1524,1968,52,Male,1968_left.jpg,1968_right.jpg,cataract，lens dust,lens dust，myelinated nerve fibers,0,0,0,1,0,0,0,1
+1525,1970,81,Female,1970_left.jpg,1970_right.jpg,glaucoma，lens dust,myelinated nerve fibers，lens dust，drusen,0,0,1,0,0,0,0,1
+1526,1971,65,Male,1971_left.jpg,1971_right.jpg,suspected glaucoma,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,1
+1530,1978,60,Female,1978_left.jpg,1978_right.jpg,lens dust，glaucoma，epiretinal membrane,lens dust，epiretinal membrane，glaucoma，moderate non proliferative retinopathy,0,1,1,0,0,0,0,1
+1531,1984,74,Male,1984_left.jpg,1984_right.jpg,lens dust，glaucoma,lens dust，myelinated nerve fibers,0,0,1,0,0,0,0,1
+1532,1985,53,Female,1985_left.jpg,1985_right.jpg,glaucoma，moderate non proliferative retinopathy,myelinated nerve fibers,0,1,1,0,0,0,0,1
+1533,1986,70,Male,1986_left.jpg,1986_right.jpg,glaucoma,myelinated nerve fibers，drusen,0,0,1,0,0,0,0,1
+1534,1987,70,Female,1987_left.jpg,1987_right.jpg,cataract,myelinated nerve fibers,0,0,0,1,0,0,0,1
+1536,1990,56,Female,1990_left.jpg,1990_right.jpg,normal fundus,myelinated nerve fibers，glaucoma,0,0,1,0,0,0,0,1
+1537,1994,67,Male,1994_left.jpg,1994_right.jpg,cataract，myelinated nerve fibers，moderate non proliferative retinopathy,mild nonproliferative retinopathy,0,1,0,1,0,0,0,1
+1538,1999,60,Male,1999_left.jpg,1999_right.jpg,epiretinal membrane，lens dust,epiretinal membrane，lens dust，glaucoma,0,0,1,0,0,0,0,1
+1540,2006,44,Male,2006_left.jpg,2006_right.jpg,maculopathy,maculopathy，glaucoma,0,0,1,0,0,0,0,1
+1542,2020,51,Male,2020_left.jpg,2020_right.jpg,myelinated nerve fibers，suspected glaucoma,normal fundus,0,0,1,0,0,0,0,1
+1543,2030,66,Male,2030_left.jpg,2030_right.jpg,glaucoma,mild nonproliferative retinopathy，glaucoma，vitreous degeneration,0,1,1,0,0,0,0,1
+1545,2034,63,Male,2034_left.jpg,2034_right.jpg,myelinated nerve fibers，old branch retinal vein occlusion,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1547,2048,63,Male,2048_left.jpg,2048_right.jpg,glaucoma，old central retinal vein occlusion,hypertensive retinopathy,0,0,0,0,1,1,0,1
+1549,2053,47,Male,2053_left.jpg,2053_right.jpg,central serous chorioretinopathy,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1550,2063,77,Male,2063_left.jpg,2063_right.jpg,glaucoma，lens dust,glaucoma，moderate non proliferative retinopathy，laser spot,0,1,1,0,0,0,0,1
+1552,2065,58,Male,2065_left.jpg,2065_right.jpg,myelinated nerve fibers,dry age-related macular degeneration,0,0,0,0,1,0,0,1
+1555,2074,24,Male,2074_left.jpg,2074_right.jpg,glaucoma，lens dust,cataract，suspected cataract,0,0,1,1,0,0,0,1
+1562,2100,31,Male,2100_left.jpg,2100_right.jpg,moderate non proliferative retinopathy，refractive media opacity,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,1
+1573,2111,73,Female,2111_left.jpg,2111_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1580,2118,77,Female,2118_left.jpg,2118_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+1585,2123,47,Male,2123_left.jpg,2123_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1586,2124,61,Female,2124_left.jpg,2124_right.jpg,cataract,epiretinal membrane,0,0,0,1,0,0,0,1
+1606,2145,73,Female,2145_left.jpg,2145_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1608,2147,55,Female,2147_left.jpg,2147_right.jpg,cataract,refractive media opacity,0,0,0,1,0,0,0,1
+1633,2173,81,Female,2173_left.jpg,2173_right.jpg,refractive media opacity,cataract,0,0,0,1,0,0,0,1
+1645,2185,72,Female,2185_left.jpg,2185_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1657,2199,69,Female,2199_left.jpg,2199_right.jpg,cataract,macular epiretinal membrane,0,0,0,1,0,0,0,1
+1661,2204,64,Female,2204_left.jpg,2204_right.jpg,cataract,drusen,0,0,0,1,0,0,0,1
+1679,2222,45,Female,2222_left.jpg,2222_right.jpg,cataract，lens dust,epiretinal membrane,0,0,0,1,0,0,0,1
+1705,2282,64,Male,2282_left.jpg,2282_right.jpg,severe proliferative diabetic retinopathy,cataract，vitreous degeneration,0,1,0,1,0,0,0,1
